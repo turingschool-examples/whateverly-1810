@@ -1048,7 +1048,7 @@ const decks = [
       "Scalding Tarn": 2,
       "Steam Vents": 1,
       "Snapcaster Mage": 3,
-      "Thoughtseize": 4,
+      "Thoughtseize": 4
     }
   },
   {
@@ -1330,14 +1330,14 @@ const decks = [
       "Stomping Ground",
       "Windswept Heath",
       "Wooded Foothills",
-      "Blood Moon",
+      "Blood Moon"
     ],
     "cardCounts": {
       "Misty Rainforest": 1,
       "Stomping Ground": 3,
       "Windswept Heath": 3,
       "Wooded Foothills": 4,
-      "Blood Moon": 4,
+      "Blood Moon": 4
     }
   },
   {
@@ -1575,3 +1575,8 @@ const decks = [
     }
   }
 ]
+
+module.exports = {
+  cards,
+  decks
+}
