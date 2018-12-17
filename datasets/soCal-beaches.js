@@ -387,3 +387,5 @@ const beaches = [
     "fire-pits": false
   }
 ];
+
+module.exports = { beachCounties, beaches };
