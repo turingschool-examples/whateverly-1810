@@ -1,0 +1,358 @@
+{
+  "gems": {
+
+    "Aquamarine" : {
+      "Color": ["Blue"],
+      "Family": "Beryl",
+      "Moh's scale": [7.5 , 8]
+    },
+
+    "Bixbite" : {
+      "Color": ["Red"],
+      "Family": "Beryl",
+      "Moh's scale": [7.5 , 8]
+    },
+
+    "Emerald" : {
+      "Color": ["Green"],
+      "Family": "Beryl",
+      "Moh's scale": [7.5 , 8]
+    },
+
+    "Goshenite" : {
+      "Color": ["White"],
+      "Family": "Beryl",
+      "Moh's scale": [7.5 , 8]
+    },
+
+    "Heliodor" : {
+      "Color": ["Yellow"],
+      "Family": "Beryl",
+      "Moh's scale": [7.5 , 8]
+    },
+
+    "Maxixe" : {
+      "Color": ["Yellow"],
+      "Family": "Beryl",
+      "Moh's scale": [7.5 , 8]
+    },
+
+    "Morganite" : {
+      "Color": ["Pink"],
+      "Family": "Beryl",
+      "Moh's scale": [7.5 , 8]
+    },
+
+    "Ruby" : {
+      "Color": ["Red"],
+      "Family": "Corundum",
+      "Moh's scale": [9]
+    },
+
+    "Saphire" : {
+      "Color": ["Yellow", "Green", "Blue", "Purple", "Pink", "White", "Black", "Brown"],
+      "Family": "Corundum",
+      "Moh's scale": [9]
+    },
+
+    "Padparadscha" : {
+      "Color": ["Orange", "Pink"],
+      "Family": "Corundum",
+      "Moh's scale": [9]
+    },
+
+    "Diamond" : {
+      "Color": ["Red", "Orange", "Yellow", "Green", "Blue", "Purple", "Pink", "White", "Black", "Grey", "Brown"],
+      "Family": "Diamond",
+      "Moh's scale": [10]
+    },
+
+    "MoonStone" : {
+      "Color": ["White"],
+      "Family": "Feldspar",
+      "Moh's scale": [6, 6.5]
+    },
+
+    "Almandine" : {
+      "Color": ["Red"],
+      "Family": "Garnet",
+      "Moh's scale": [6.5, 8.5]
+    },
+
+    "Hessonite" : {
+      "Color": ["Orange"],
+      "Family": "Garnet",
+      "Moh's scale": [6.5, 8.5]
+    },
+
+    "Pyrope" : {
+      "Color": ["Red", "Purple"],
+      "Family": "Garnet",
+      "Moh's scale": [6.5, 8.5]
+    },
+
+    "Rhodalite" : {
+      "Color": ["Red", "Pink"],
+      "Family": "Garnet",
+      "Moh's scale": [6.5, 8.5]
+    },
+
+    "Tsavorite" : {
+      "Color": ["Green"],
+      "Family": "Garnet",
+      "Moh's scale": [6.5, 8.5]
+    },
+    
+    "Jadeite" : {
+      "Color": ["Green", "Blue", "Purple"],
+      "Family": "Jade",
+      "Moh's scale": [6, 7]
+    },
+
+    "Nephrite" : {
+      "Color": ["Yellow", "Green", "Blue", "Purple", "White", "Black", "Grey", "Brown" ],
+      "Family": "Jade",
+      "Moh's scale": [6, 7]
+    },
+
+    "Fire Opal" : {
+      "Color": ["Red", "Orange", "Yellow"],
+      "Family": "Jade",
+      "Moh's scale": [5.5, 6.5]
+    },
+
+    "Opal" : {
+      "Color": ["Blue", "Purple", "Pink", "White", "Black", "Brown"],
+      "Family": "Jade",
+      "Moh's scale": [5.5, 6.5]
+    },
+
+    "Pearl" : {
+      "Color": ["Orange", "Yellow", "Green", "Blue", "Pink", "White", "Black", "Grey", "Brown"],
+      "Family": "Pearl",
+      "Moh's scale": [2.5, 4.5]
+    },
+
+    "Peridot" : {
+      "Color": ["Green"],
+      "Family": "Peridot",
+      "Moh's scale": [7]
+     },
+
+    "Amethyst" : {
+      "Color": ["Purple"],
+      "Family": "Quartz",
+      "Moh's scale": [7]
+    },
+
+    "Carnelian" : {
+      "Color": ["Red", "Orange"],
+      "Family": "Quartz",
+      "Moh's scale": [7]
+    },
+
+    "Citrine" : {
+      "Color": ["Yellow"],
+      "Family": "Quartz",
+      "Moh's scale": [7]
+    },
+
+    "Onyx" : {
+      "Color": ["Black"],
+      "Family": "Quartz",
+      "Moh's scale": [7]
+    },
+
+    "Prasiolite" : {
+      "Color": ["Green"],
+      "Family": "Quartz",
+      "Moh's scale": [7]
+    },
+
+    "Rose Quartz" : {
+      "Color": ["Green"],
+      "Family": "Quartz",
+      "Moh's scale": [7]
+    },
+
+    "Smoky Quartz" : {
+      "Color": ["Green"],
+      "Family": "Quartz",
+      "Moh's scale": [7]
+    },
+
+    "Almandine Spinel" : {
+      "Color": ["Purple"],
+      "Family": "Spinel",
+      "Moh's scale": [7.5, 8.0]
+    },
+
+    "Gahnospinel" : {
+      "Color": ["Green"],
+      "Family": "Spinel",
+      "Moh's scale": [7.5, 8.0]
+    },
+
+    "Peridotite" : {
+      "Color": ["Green"],
+      "Family": "Spinel",
+      "Moh's scale": [7.5, 8.0]
+    },
+
+    "Rubicelle" : {
+      "Color": ["Red"],
+      "Family": "Spinel",
+      "Moh's scale": [7.5, 8.0]
+    },
+
+    "Spinel" : {
+      "Color": ["Blue", "Pink", "White", "Black", "Brown"],
+      "Family": "Spinel",
+      "Moh's scale": [7.5, 8.0]
+    },
+
+    "Topaz" : {
+      "Color": ["Red", "Orange", "Yellow", "Green", "Blue", "Pink", "White", "Brown" ],
+      "Family": "Topaz",
+      "Moh's scale": [8]
+    },
+
+    "Achroite" : {
+      "Color": ["White"],
+      "Family": "Tourmaline",
+      "Moh's scale": [7, 7.5]
+    },
+
+    "Chrome Tourmaline" : {
+      "Color": ["Green"],
+      "Family": "Tourmaline",
+      "Moh's scale": [7, 7.5]
+    },
+
+    "Dravite" : {
+      "Color": ["Black", "Brown"],
+      "Family": "Tourmaline",
+      "Moh's scale": [7, 7.5]
+    },
+
+    "Elbaite" : {
+      "Color": ["Green"],
+      "Family": "Tourmaline",
+      "Moh's scale": [7, 7.5]
+    },
+      
+    "Indicolite " : {
+      "Color": ["Blue"],
+      "Family": "Tourmaline",
+      "Moh's scale": [7, 7.5]
+    },
+
+    "Rubellite " : {
+      "Color": ["Red","Pink"],
+      "Family": "Tourmaline",
+      "Moh's scale": [7, 7.5]
+    },
+
+    "Schorl" : {
+      "Color": ["Green"],
+      "Family": "Tourmaline",
+      "Moh's scale": [7, 7.5]
+    },
+
+    "Siberite" : {
+      "Color": ["Purple"],
+      "Family": "Tourmaline",
+      "Moh's scale": [7, 7.5]
+    },
+
+    "Verdelite" : {
+      "Color": ["Green"],
+      "Family": "Tourmaline",
+      "Moh's scale": [7, 7.5]
+    },
+
+    "Watermelon Tourmaline" : {
+      "Color": ["Red", "Green", "Pink"],
+      "Family": "Tourmaline",
+      "Moh's scale": [7, 7.5]
+    },
+
+    "Turquoise" : {
+      "Color": ["Green", "Blue"],
+      "Family": "Turquoise",
+      "Moh's scale": [5, 6]
+    },
+
+    "Zircon" : {
+      "Color": ["Red", "Yellow", "Green", "Blue", "White", "Grey", "Brown"],
+      "Family": "Zircon",
+      "Moh's scale": [7.5]
+    }
+  }
+}
+
+{
+  "metals": {
+
+    "Gold" : {
+      "Color": ["Yellow", "Pink", "Green"],
+      "Makeup": ["Gold", "Silver", "Copper"],
+      "Durable": "True", 
+      "Resizeable": "True"
+    },
+
+    "White Gold" : {
+      "Color": ["White"],
+      "Makeup": ["Gold", "Silver", "Rhodium-Plated"],
+      "Durable": "True",
+      "Resizeable": "True"
+    },
+
+    "Palladium" : {
+      "Color": ["White"],
+      "Makeup": ["Platinum-group"],
+      "Durable": "True", 
+      "Resizeable": "True"
+    },
+
+    "Platinum" : {
+      "Color": ["White"],
+      "Makeup": ["Platinum-group"],
+      "Durable": "True", 
+      "Resizeable": "True"
+    },
+
+    "Silver" : {
+      "Color": ["White"],
+      "Makeup": ["Silver"],
+      "Durable": "False", 
+      "Resizeable": "True"
+    },
+
+    "Steel" : {
+      "Color": ["White"],
+      "Makeup": ["Iron"],
+      "Durable": "True",
+      "Resizeable": "False"
+    },
+
+    "Titanium" : {
+      "Color": ["White"],
+      "Makeup": ["Titanium"],
+      "Durable": "True",
+      "Resizeable": "False"
+    },
+
+    "Tungsten" : {
+      "Color": ["White"],
+      "Makeup": ["Tungsten"],
+      "Durable": "True",
+      "Resizeable": "False"
+    }
+  }
+}
+
+module.exports = {
+  gems,
+  metals
+}
