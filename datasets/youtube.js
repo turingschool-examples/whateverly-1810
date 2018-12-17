@@ -348,6 +348,23 @@ const youTube = {
     "views": 555000,
     "likes": 8000
   }],
+  "Vue": [{
+    "title": "The Vue Tutorial for 2018 - Learn Vue 2 in 65 Minutes",
+    "channel": "DesignCourse",
+    "url": "https://www.youtube.com/embed/78tNYZUS-ps",
+    "level": "Intermediate",
+    "time": 65,
+    "views": 151000,
+    "likes": 2800
+  }, {
+      "title": "Vue.js 2.0 In 60 Minutes",
+    "channel": "Traversy Media",
+      "url": "https://www.youtube.com/embed/z6hQqgvGI4Y",
+    "level": "Intermediate",
+    "time": 62,
+    "views": 534000,
+    "likes": 8400
+  }],
   "Swift": [{
     "title": "Swift Tutorial",
     "channel": "Derek Banas",
@@ -365,6 +382,56 @@ const youTube = {
     "views": 162000,
     "likes": 2000
   }],
+  "Jest": [{
+    "title": "#1 Introduction To Testing With Jest - React Testing For Beginners",
+    "channel": "LevelUpTuts",
+    "url": "https://www.youtube.com/embed/D9DdY2WmM-s",
+    "level": "Beginner",
+    "time": 12,
+    "views": 9000,
+    "likes": 141
+  }, {
+    "title": "How to Test React Components",
+    "channel": "CoderJourney",
+    "url": "https://www.youtube.com/embed/f6Uk0qS_Lho",
+    "level": "Beginner",
+    "time": 19,
+    "views": 28000,
+    "likes": 212
+  }, {
+    "title": "Jest Crash Course - Unit Testing in JavaScript",
+    "channel": "Traversy Media",
+    "url": "https://www.youtube.com/embed/7r4xVDI2vho",
+    "level": "Beginner",
+    "time": 57,
+    "views": 44000,
+    "likes": 1100
+  }],
+  "Node.js": [{
+    "title": "Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh",
+    "channel": "Programming with Mosh",
+    "url": "https://www.youtube.com/embed/TlB_eWDSMt4",
+    "level": "Beginner",
+    "time": 78,
+    "views": 782000,
+    "likes": 12000
+  }, {
+    "title": "Node.js Tutorial For Absolute Beginners",
+    "channel": "Traversy Media",
+    "url": "https://www.youtube.com/embed/U8XF6AFGqlc",
+    "level": "Beginner",
+    "time": 24,
+    "views": 670000,
+    "likes": 9000
+  }, {
+    "title": "JLearn Node.js - Full Tutorial for Beginners",
+    "channel": "freeCodeCamp.org",
+    "url": "https://www.youtube.com/embed/RLtyhwFtXQA",
+    "level": "Beginner",
+    "time": 169,
+    "views": 29000,
+    "likes": 822
+  }],
   "Debugging": [{
     "title": "Debugging JavaScript - Beginner to Advanced in One Video",
     "channel": "Chris Morrow",
@@ -381,6 +448,31 @@ const youTube = {
     "time": 7,
     "views": 93000,
     "likes": 1300
+  }],
+  "unity": [{
+    "title": "Unity Tutorial for Beginners 2018 (Full Course)",
+    "channel": "Online Course",
+    "url": "https://www.youtube.com/embed/H5YEFjqOXPY",
+    "level": "Beginner",
+    "time": 268,
+    "views": 18000,
+    "likes": 451
+  }, {
+      "title": "How to Simulate Gravity in Unity",
+      "channel": "Brackeys",
+      "url": "https://www.youtube.com/embed/Ouu3D_VHx9o",
+    "level": "Advanced",
+    "time": 9,
+    "views": 141000,
+    "likes": 3900
+  }, {
+      "title": "GENERATING TERRAIN in Unity - Procedural Generation Tutorial",
+      "channel": "Brackeys",
+      "url": "https://www.youtube.com/embed/vFvwyu_ZKfU",
+    "level": "Advanced",
+    "time": 9,
+    "views": 151000,
+    "likes": 3500
   }],
   "Misc": [{
     "title": "What Programming Language Should I Learn First?",
