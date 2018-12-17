@@ -198,187 +198,187 @@ const cities = [
     "name": "Glendale",
     "state": "Arizona",
     "population": 226721,
-    "attractions": [ "Wildlife World Zoo", "White Tank Mountain Regional Park", "Westgate Arena", "Thunderbird Conservation Park"]
+    "attractions": ["Wildlife World Zoo", "White Tank Mountain Regional Park", "Westgate Arena", "Thunderbird Conservation Park"]
   },
   {
     "name": "Atlanta",
     "state": "Georgia",
     "population": 486290,
-    "attractions": [ "Georgia Aquarium", "World of Coca-Cola", "Centennial Olympic Park", "Atlanta Botanic Gardens"]
+    "attractions": ["Georgia Aquarium", "World of Coca-Cola", "Centennial Olympic Park", "Atlanta Botanic Gardens"]
   },
   {
     "name": "Baltimore",
     "state": "Maryland",
     "population": 611648,
-    "attractions": [ "Inner Harbor", "National Aquarium", "Fort McHenry", "B&O Railroad Museum"]
+    "attractions": ["Inner Harbor", "National Aquarium", "Fort McHenry", "B&O Railroad Museum"]
   },
   {
     "name": "Orchard Park",
     "state": "New York",
     "population": 29054,
-    "attractions": [ "Eternal Flame Falls", "Chestnut Ridge Park", "Bob-O-Link Golf Club", "Spa at Falling Waters"]
+    "attractions": ["Eternal Flame Falls", "Chestnut Ridge Park", "Bob-O-Link Golf Club", "Spa at Falling Waters"]
   },
   {
     "name": "Charlotte",
     "state": "North Carolina",
     "population": 2474314,
-    "attractions": [ "Carowinds", "NASCAR Hall of Fame", "Discovery Place Science", "U.S. National Whitewater Center"]
+    "attractions": ["Carowinds", "NASCAR Hall of Fame", "Discovery Place Science", "U.S. National Whitewater Center"]
   },
   {
     "name": "Chicago",
     "state": "Illinois",
     "population": 2716450,
-    "attractions": [ "Willis Tower", "Millennium Park", "Cloud Gate", "Navy Pier"]
+    "attractions": ["Willis Tower", "Millennium Park", "Cloud Gate", "Navy Pier"]
   },
   {
     "name": "Cincinnati",
     "state": "Ohio",
     "population": 2172191,
-    "attractions": [ "Cincinnati Zoo", "Ohio River", "Newport Aquarium", "Cincinnati Museum Center"]
+    "attractions": ["Cincinnati Zoo", "Ohio River", "Newport Aquarium", "Cincinnati Museum Center"]
   },
   {
     "name": "Cleveland",
     "state": "Ohio",
     "population": 388072,
-    "attractions": [ "Rock and Roll Hall of Fame", "Cleveland Museum of Art", "Cleveland Metroparks Zoo"]
+    "attractions": ["Rock and Roll Hall of Fame", "Cleveland Museum of Art", "Cleveland Metroparks Zoo"]
   },
   {
     "name": "Frisco",
     "state": "Texas",
     "population": 116989,
-    "attractions": [ "Arbor Hills Nature Preserve", "Frisco Commons Park", "Hope Park", "Karya Siddhi Hanuman Temple"]
+    "attractions": ["Arbor Hills Nature Preserve", "Frisco Commons Park", "Hope Park", "Karya Siddhi Hanuman Temple"]
   },
   {
     "name": "Denver",
     "state": "Colorado",
     "population": 704621,
-    "attractions": [ "LoDo", "Denver Botanic Gardens", "Red Rocks Amphitheatre", "Denver Zoo"]
+    "attractions": ["LoDo", "Denver Botanic Gardens", "Red Rocks Amphitheatre", "Denver Zoo"]
   },
   {
     "name": "Detroit",
     "state": "Michigan",
     "population": 673104,
-    "attractions": [ "The Henry Ford Museum", "Belle Isle Park", "Renaissance Center", "Detroit Institute of Art"]
+    "attractions": ["The Henry Ford Museum", "Belle Isle Park", "Renaissance Center", "Detroit Institute of Art"]
   },
   {
     "name": "Green Bay",
     "state": "Wisconsin",
     "population": 104057,
-    "attractions": [ "Bay Beach Amusement Park", "Green Bay Botanical Garden", "National Railroad Museum", "NEW Zoo and Adventure Park"]
+    "attractions": ["Bay Beach Amusement Park", "Green Bay Botanical Garden", "National Railroad Museum", "NEW Zoo and Adventure Park"]
   },
   {
     "name": "Houston",
     "state": "Texas",
     "population": 2312717,
-    "attractions": [ "Space Center Houston", "Houston Zoo", "Johnson Space Center", "Houston Museum District"]
+    "attractions": ["Space Center Houston", "Houston Zoo", "Johnson Space Center", "Houston Museum District"]
   },
   {
     "name": "Indianapolis",
     "state": "Indiana",
     "population": 2411086,
-    "attractions": [ "The Children's Museum of Indianapolis", "White River State Park", "Indianapolis Motor Speedway", "Indianapolis Zoo"]
+    "attractions": ["The Children's Museum of Indianapolis", "White River State Park", "Indianapolis Motor Speedway", "Indianapolis Zoo"]
   },
   {
     "name": "Jacksonville",
     "state": "Florida",
     "population": 892062,
-    "attractions": [ "Amelia Island", "Jacksonville Zoo and Gardens", "Kathryn Abbey Hanna Park", "Kingsley Plantation"]
-  }, 
+    "attractions": ["Amelia Island", "Jacksonville Zoo and Gardens", "Kathryn Abbey Hanna Park", "Kingsley Plantation"]
+  },
   {
     "name": "Kansas City",
     "state": "Kansas",
     "population": 145786,
-    "attractions": [ "Schlitterbahn Waterpark", "Shawnee Mission Park", "Harrah's North Kansas City", "Loose Park Rose Garden"]
+    "attractions": ["Schlitterbahn Waterpark", "Shawnee Mission Park", "Harrah's North Kansas City", "Loose Park Rose Garden"]
   },
   {
     "name": "Miami",
     "state": "Florida",
     "population": 463347,
-    "attractions": [ "South Beach", "Ocean Drive", "Bayside Marketplace", "Miami Seaquarium"]
+    "attractions": ["South Beach", "Ocean Drive", "Bayside Marketplace", "Miami Seaquarium"]
   },
   {
     "name": "Minneapolis",
     "state": "Minnesota",
     "population": 422331,
-    "attractions": [ "Minnehaha Park", "Walker Art Center", "Minneapolis Sculpture Garden", "Mill City Museum"]
+    "attractions": ["Minnehaha Park", "Walker Art Center", "Minneapolis Sculpture Garden", "Mill City Museum"]
   },
   {
     "name": "Foxborough",
     "state": "Massachusetts",
     "population": 16693,
-    "attractions": [ "Patriots Place", "F. Gilbert Hills State Forest", "Borderland State Park", "The Nature Trail and Cranberry Bog"]
+    "attractions": ["Patriots Place", "F. Gilbert Hills State Forest", "Borderland State Park", "The Nature Trail and Cranberry Bog"]
   },
   {
     "name": "New Orleans",
     "state": "Louisiana",
     "population": 393292,
-    "attractions": [ "French Quarter", "Bourbon Street", "Garden District", "Jackson Square"]
+    "attractions": ["French Quarter", "Bourbon Street", "Garden District", "Jackson Square"]
   },
   {
     "name": "East Rutherford",
     "state": "New Jersey",
     "population": 9856,
-    "attractions": [ "MetLife Stadium", "Meadowlands Sports Complex", "Meadowlands Museum", "Carlstadt Historical Society Museum"]
+    "attractions": ["MetLife Stadium", "Meadowlands Sports Complex", "Meadowlands Museum", "Carlstadt Historical Society Museum"]
   },
   {
     "name": "Oakland",
     "state": "California",
     "population": 425195,
-    "attractions": [ "Angel Island", "Tilden Regional Park", "Lake Merritt", "Redwood Regional Park"]
+    "attractions": ["Angel Island", "Tilden Regional Park", "Lake Merritt", "Redwood Regional Park"]
   },
   {
     "name": "Philadelphia",
     "state": "Pennsylvania",
     "population": 1580863,
-    "attractions": [ "Independence Hall", "Liberty Bell", "Philadelphia Museum of Art", "Independence National Historical Park"]
+    "attractions": ["Independence Hall", "Liberty Bell", "Philadelphia Museum of Art", "Independence National Historical Park"]
   },
   {
     "name": "Pittsburgh",
     "state": "Pennsylvania",
     "population": 2353045,
-    "attractions": [ "Downtown Pittsburgh", "Phipps Conservatory", "Pittsburgh Zoo", "The Andy Warhol Museum"]
+    "attractions": ["Downtown Pittsburgh", "Phipps Conservatory", "Pittsburgh Zoo", "The Andy Warhol Museum"]
   },
   {
     "name": "St. Louis",
     "state": "Missouri",
     "population": 308626,
-    "attractions": [ "Gateway Arch", "Gateway Arch Museum", "Missouri Botannical Gardens", "City Museum"]
+    "attractions": ["Gateway Arch", "Gateway Arch Museum", "Missouri Botannical Gardens", "City Museum"]
   },
   {
     "name": "San Diego",
     "state": "California",
     "population": 1419516,
-    "attractions": [ "Balboa Park", "SeaWorld", "San Diego Zoo", "USS Midway Museum"]
+    "attractions": ["Balboa Park", "SeaWorld", "San Diego Zoo", "USS Midway Museum"]
   },
   {
     "name": "San Francisco",
     "state": "California",
     "population": 884363,
-    "attractions": [ "Golden Gate Bridge", "Fisherman's Wharf", "Alcatraz Island", "Golden Gate Park"]
+    "attractions": ["Golden Gate Bridge", "Fisherman's Wharf", "Alcatraz Island", "Golden Gate Park"]
   },
   {
     "name": "Seattle",
     "state": "Washington",
     "population": 730410,
-    "attractions": [ "Space Needle", "Pike Place Market", "Chihuly Garden and Glass", "Museum of Pop Culture"]
+    "attractions": ["Space Needle", "Pike Place Market", "Chihuly Garden and Glass", "Museum of Pop Culture"]
   },
   {
     "name": "Tampa",
     "state": "Florida",
     "population": 385430,
-    "attractions": [ "Busch Gardens", "Ybor City", "The Florida Museum", "ZooTampa at Lowry Park"]
+    "attractions": ["Busch Gardens", "Ybor City", "The Florida Museum", "ZooTampa at Lowry Park"]
   },
   {
     "name": "Nashville",
     "state": "Tennessee",
     "population": 691243,
-    "attractions": [ "Grand Ole Opry", "The Parthenon", "Ryman Auditorium", "Country Music Hall of Fame"]
+    "attractions": ["Grand Ole Opry", "The Parthenon", "Ryman Auditorium", "Country Music Hall of Fame"]
   },
   {
     "name": "Landover",
     "state": "Maryland",
     "population": 23078,
-    "attractions": [ "United States National Arboretum", "Kenilworth Park and Aquatic Gardens", "United States Capitol", "Greenbelt Park"]
+    "attractions": ["United States National Arboretum", "Kenilworth Park and Aquatic Gardens", "United States Capitol", "Greenbelt Park"]
   }
 ]
 
