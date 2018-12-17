@@ -634,7 +634,7 @@ const show = {
   "showName": "Mr. Robot",
   "executiveProducer": "Sam Esmail",
   "network": "USA",
-  "numerOfSeasons": 3,
+  "numberOfSeasons": 3,
   "characters": [
     {
       "characterName": "Elliot Alderson",
