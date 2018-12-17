@@ -78,7 +78,7 @@ const games = [
     "youtube": "https://www.youtube.com/watch?v=MINNKyE4fjs"
   },
   {
-    "game": "Dr. Eureka ",
+    "game": "Dr. Eureka",
     "description": "Help Dr. Eureka complete experiments without dropping materials in Dr. Eureka Speed Logic Game! This dexterity-based brainteaser can be played with friends or by yourself",
     "min_age": 8,
     "min_players": 1,
@@ -130,7 +130,7 @@ const games = [
     "youtube": "https://www.youtube.com/watch?v=eCh1WoNShEY"
   },
   {
-    "game": "Terraforming Mars ",
+    "game": "Terraforming Mars",
     "description": "In Terraforming Mars you lead one of many government corporations that work together to terraform Mars in the 2400s. Get awarded for advancing human infrastructure throughout the solar systems and attaining other achievements in this strategy game!",
     "min_age": 12,
     "min_players": 1,
@@ -143,7 +143,7 @@ const games = [
     "youtube": "https://www.youtube.com/watch?v=TiswoYwwjnI"
   },
   {
-    "game": "Kingdomino ",
+    "game": "Kingdomino",
     "description": "Game of the Year 2017 winner! Be the first to complete a 5x5 grid by connecting dominoes with matching terrain type to your existing kingdom. Make sure to secure tiles with crowns which help multiply the worth of your kingdom at the end of the game.",
     "min_age": 8,
     "min_players": 2,
@@ -169,7 +169,7 @@ const games = [
     "youtube": "https://www.youtube.com/watch?v=21J0ZQ1GLc0"
   },
   {
-    "game": "Super Mario Level Up ",
+    "game": "Super Mario Level Up",
     "description": "Collect bonuses and level up in Super Mario Level Up! This quick strategy game includes a 3D board where players try to score the most points based on their lineup card and ending positions of each Mario character. For 3-6 players, ages 8+",
     "min_age": 8,
     "min_players": 3,
@@ -195,7 +195,7 @@ const games = [
     "youtube": "https://www.youtube.com/watch?v=_j1pJj2UVic"
   },
   {
-    "game": "Quadropolis ",
+    "game": "Quadropolis",
     "description": "Each player builds their own metropolis in Quadropolis (first announced as City Mania), but they're competing with one another for the shops, parks, public services and other structures to be placed in them.",
     "min_age": 8,
     "min_players": 2,
@@ -208,7 +208,7 @@ const games = [
     "youtube": "https://www.youtube.com/watch?v=HwKLP7_qT78"
   },
   {
-    "game": "Small World ",
+    "game": "Small World",
     "description": "In Small World, fantasy characters of different races inhabit territories that are being disputed over. The world is too small for them all! Players race to expand their empires by conquering adjacent lands and by knowing when to ride a new one to victory.",
     "min_age": 8,
     "min_players": 2,
@@ -221,7 +221,7 @@ const games = [
     "youtube": "https://www.youtube.com/watch?v=ibzqvd3b1Yg"
   },
   {
-    "game": "Time Stories ",
+    "game": "Time Stories",
     "description": "Alternate realities have appeared and time has become malleable! In T.I.M.E. Stories, players are agents traveling through time to repair the temporal faults that danger reality. If you fail a mission, you'll repeat it with prior experience and knowledge!",
     "min_age": 12,
     "min_players": 2,
@@ -234,7 +234,7 @@ const games = [
     "youtube": "https://www.youtube.com/watch?v=M3gVCTcIang"
   },
   {
-    "game": "Twister ",
+    "game": "Twister",
     "description": "Find out if you're REALLY flexible! This classic game is sure to bring loads of fun and laughs as you and your friends try to touch different colors on the mat with different parts of your bodies. Your fate is determined by a spinner! Great for parties!",
     "min_age": 6,
     "min_players": 2,
@@ -260,7 +260,7 @@ const games = [
     "youtube": "https://www.youtube.com/watch?v=qTylbl8-TII"
   },
   {
-    "game": "Dr. Microbe ",
+    "game": "Dr. Microbe",
     "description": "Help Dr. Microbe complete her research with your tweezers, a petri dish, and the colorful microbes. Using logic, race your fellow scientists to figure out which microbes are missing from the incomplete challenge card and snatch them up fast! find the answer usin...",
     "min_age": 8,
     "min_players": 2,
@@ -273,7 +273,7 @@ const games = [
     "youtube": "https://www.youtube.com/watch?v=DwgVNezSMzk"
   },
   {
-    "game": "Imhotep: Builder of Egypt ",
+    "game": "Imhotep: Builder of Egypt",
     "description": "Take on the role of Egyptian architect transporting stone blocks to the most valuable positions in construction sites and thwart your opponents' efforts to do the same. This Game of the Year nominee will help you and your family make lots of memories!",
     "min_age": 10,
     "min_players": 2,
@@ -286,7 +286,7 @@ const games = [
     "youtube": "https://www.youtube.com/watch?v=wrhfb4e5-60"
   },
   {
-    "game": "Animal Act ",
+    "game": "Animal Act",
     "description": "Animal Act is a game that encourages kids to flex their creative muscles in new ways of expressing themselves. Roll the die and choose your path- sing, act, mime, or guess your way to greatness in this fun-filled game!\n",
     "min_age": 4,
     "min_players": 2,
@@ -299,7 +299,7 @@ const games = [
     "youtube": "https://www.youtube.com/watch?v=F17NjpauTXY"
   },
   {
-    "game": "Wits and Wagers ",
+    "game": "Wits and Wagers",
     "description": "You don't have to know everything to be good at this trivia-like game! Everyone writes down a guess to a fun question like \"in inches, how tall is the Oscar statuette?\" then players bet on the closest guess to the right answer. It's all in the Wits and Wagers!\n",
     "min_age": 10,
     "min_players": 3,
@@ -312,7 +312,7 @@ const games = [
     "youtube": "https://www.youtube.com/watch?v=x9M_vEaj3qM"
   },
   {
-    "game": "The Castles of Burgundy ",
+    "game": "The Castles of Burgundy",
     "description": "In The Castles of Burgundy, you and up to three friends are noble aristocrats controlling your own princedoms. This strategy game is played over five phases where you can take certain actions during your turn based on the die you roll.\n",
     "min_age": 12,
     "min_players": 2,
@@ -664,85 +664,90 @@ const games = [
   }
 ];
 
-let genreData = [
+let genres = [
  {
-   "genre": "strategy",
+   "genre": "Strategy",
    "genreID": 1,
    "description": "Games that encourage you to develop plans and put them into action."
  },
  {
-   "genre": "family",
+   "genre": "Family",
    "genreID": 2,
    "description": "Games that will bring the entire family to the table."
  },
  {
-   "genre": "party",
+   "genre": "Party",
    "genreID": 3,
    "description": "Games that make hosting fun and easy."
  },
  {
-   "genre": "adult_only",
+   "genre": "Adult Only",
    "genreID": 4,
    "description": "Games that are best kept to the 18+ crowd."
  },
  {
-   "genre": "childrens",
+   "genre": "Childrens",
    "genreID": 5,
    "description": "Games for kids that are fun and educational."
  },
  {
-   "genre": "board",
+   "genre": "Board",
    "genreID": 6,
    "description": "Board games for any gathering."
  },
  {
-   "genre": "card",
+   "genre": "Card",
    "genreID": 7,
    "description": "All you'll need are your friends and these cards."
  },
  {
-   "genre": "adventure",
+   "genre": "Adventure",
    "genreID": 8,
    "description": "Explore the world and mystical places."
  },
  {
-   "genre": "trivia",
+   "genre": "Trivia",
    "genreID": 9,
    "description": "Test your knowledge of events or unimportant facts."
  },
  {
-   "genre": "horror",
+   "genre": "Horror",
    "genreID": 10,
    "description": "Games with a spooky side..."
  },
  {
-   "genre": "money_and_gambling",
+   "genre": "Money and Gambling",
    "genreID": 11,
    "description": "Games that based in trading, currency or gambling."
  },
  {
-   "genre": "science_fiction",
+   "genre": "Science Fiction",
    "genreID": 12,
    "description": "Games themed by actual and imagined science and technology."
  },
  {
-   "genre": "silly",
+   "genre": "Silly",
    "genreID": 13,
    "description": "Games that will keep you and your friends laughing all night."
  },
  {
-   "genre": "fantasy ",
+   "genre": "Fantasy",
    "genreID": 14,
    "description": "Embark on an epic gaming quest."
  },
  {
-   "genre": "pop_culture",
+   "genre": "Pop Culture",
    "genreID": 15,
    "description": "Games based on popular media."
  },
  {
-   "genre": "classic",
+   "genre": "Classic",
    "genreID": 16,
    "description": "Games you remember from your childhood. "
  }
 ];
+
+module.exports = {
+  games,
+  genres
+}
