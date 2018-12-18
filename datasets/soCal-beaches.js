@@ -36,7 +36,9 @@ const beaches = [
     "camping": true,
     "activities": ["Hiking", "Biking", "Surfing", "Horseback Riding", "Tidepooling", "Fishing", "Snorkeling", "Nature Viewing", "Wildlife Viewing", "Photography"],
     "hours": "6AM-10PM",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/VdqbEDr.jpg" 
+
   },
   { "name": "Cayucos State Beach",
     "county": "San Luis Obispo County",
@@ -48,7 +50,8 @@ const beaches = [
     "camping": false,
     "activities": ["Fishing", "Swimming", "Surfing", "Boating", "Tidepooling"],
     "hours": "N/A",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/u7gAUPB.png" 
   },
   { "name": "Pismo State Beach",
     "county": "San Luis Obispo County",
@@ -60,7 +63,8 @@ const beaches = [
     "camping": true,
     "activities": ["Hiking", "Swimming", "Fishing", "Horseback Riding", "Sand Dunes", "Scuba Diving/Snorkeling", "Nature Viewing", "Wildlife Viewing", "Surfing"],
     "hours": "N/A",
-    "fire-pits": true
+    "fire-pits": true,
+    "image": "https://i.imgur.com/0b5eBBG.jpg" 
   },
   { "name": "William Randolph Hearst Memorial State Beach",
     "county": "San Luis Obispo County",
@@ -72,7 +76,8 @@ const beaches = [
     "camping": false,
     "activities": ["Swimming", "Fishing", "Kayaking", "Boating", "Wildlife Viewing", "Boogie Boarding"],
     "hours": "Dawn to Dusk",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/hfcSwSw.jpg" 
   },
   { "name": "Butterfly Beach",
     "county": "Santa Barbara County",
@@ -84,7 +89,8 @@ const beaches = [
     "camping": false,
     "activities": ["Sunbathing", "Biking", "Fishing", "Beach Walking"],
     "hours": "N/A",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/5gKhTil.jpg" 
   },
   { "name": "Santa Claus Beach",
     "county": "Santa Barbara County",
@@ -96,7 +102,8 @@ const beaches = [
     "camping": false,
     "activities": ["Paddleboarding", "Boogie Boarding", "Swimming", "Surfing", "Sunbathing"],
     "hours": "N/A",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/PfP3gTd.jpg" 
   },
   { "name": "Arroyo Burro Beach",
     "county": "Santa Barbara County",
@@ -108,7 +115,8 @@ const beaches = [
     "camping": false,
     "activities": ["Grilling", "Wildlife Viewing", "Horseback Riding", "Fishing", "Surfing", "Swimming"],
     "hours": "8AM to Sunset",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/tIXJFQb.jpg"
   },
   { "name": "Carpinteria State Beach",
     "county": "Santa Barbara County",
@@ -120,7 +128,8 @@ const beaches = [
     "camping": true,
     "activities": ["Hiking", "Biking", "Swimming", "Fishing", "Surfing", "Snorkeling", "Tidepooling"],
     "hours": "7AM to Sunset",
-    "fire-pits": false
+    "fire-pits": false,
+    "image":"https://i.imgur.com/622W0Pt.jpg"
   },
   { "name": "Mesa Lane Beach",
     "county": "Santa Barbara County",
@@ -132,7 +141,8 @@ const beaches = [
     "camping": false,
     "activities": ["Surfing", "Paddleboarding", "Swimming", "Sunbathing", "Tidepooling"],
     "hours": "N/A",
-    "fire-pits": false
+    "fire-pits": false,
+    "image":"https://i.imgur.com/GguceUJ.jpg"
   },
   { "name": "Oxnard Beach Park",
     "county": "Ventura County",
@@ -144,7 +154,8 @@ const beaches = [
     "camping": false,
     "activities": ["Volleyball", "Swimming", "Surfing", "Sunbathing", "Biking", "Grilling", "Basketball", "Playground"],
     "hours": "N/A",
-    "fire-pits": false
+    "fire-pits": false,
+    "image":"https://i.imgur.com/uziPYW4.jpg"
   },
   { "name": "Venice Beach",
     "county": "Los Angeles County",
@@ -156,7 +167,8 @@ const beaches = [
     "camping": false,
     "activities": ["Surfing", "Shopping", "Swimming", "Skating", "Biking", "Walking", "Street Entertainment", "Exercise"],
     "hours": "6AM-10PM",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/mMCZQbW.jpg"
   },
   { "name": "Rosie’s Dog Beach",
     "county": "Los Angeles County",
@@ -168,7 +180,8 @@ const beaches = [
     "camping": false,
     "activities": ["Skating", "Biking", "Dog Walking", "Volleyball"],
     "hours": "6AM-8PM",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/K8XUYch.jpg"
   },
   { "name": "Santa Monica State Beach",
     "county": "Los Angeles County",
@@ -180,7 +193,8 @@ const beaches = [
     "camping": false,
     "activities": ["Shopping", "Surfing", "Playground", "Amusement Park", "Biking", "Walking", "Sunbathing", "Volleyball", "Paddleboarding", "Exercise", "Fishing", "Aquarium"],
     "hours": "24Hrs",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/0tfeYw1.jpg"
   },
   { "name": "Leo Carrillo State Park",
     "county": "Los Angeles County",
@@ -192,7 +206,8 @@ const beaches = [
     "camping": true,
     "activities": ["Swimming", "Surfing", "Fishing", "Tidepooling", "Cave Exploring", "Hiking", "Snorkeling", "Nature Viewing", "Wildlife Viewing", "Boating"],
     "hours": "8AM-10PM",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/TfMPYJH.jpg"
   },
   { "name": "El Matador Beach",
     "county": "Los Angeles County",
@@ -204,7 +219,8 @@ const beaches = [
     "camping": false,
     "activities": ["Cave Exploring", "Photography", "Swimming", "Nature Viewing", "Wildlife Viewing", "Snorkeling", "Sunbathing"],
     "hours": "8AM to Sunset",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/IyPbOQp.jpg"
   },
   { "name": "Dockweiler State Beach",
     "county": "Los Angeles County",
@@ -216,7 +232,8 @@ const beaches = [
     "camping": false,
     "activities": ["Boating", "Scuba Diving", "Snorkeling", "Swimming", "Surfing", "Biking"],
     "hours": "Mon-Fri, 9AM-5PM",
-    "fire-pits": true
+    "fire-pits": true,
+    "image": "https://i.imgur.com/XKodWmW.jpg"
   },
   { "name": "Manhattan State Beach",
     "county": "Los Angeles County",
@@ -228,7 +245,8 @@ const beaches = [
     "camping": false,
     "activities": ["Swimming with Caution", "Surfing", "Volleyball", "Biking", "Fishing at Pier", "Playground"],
     "hours": "6AM-12AM",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/FTNjRVm.jpg"
   },
   { "name": "Crystal Cove State Park",
     "county": "Orange County",
@@ -240,7 +258,8 @@ const beaches = [
     "camping": true,
     "activities": ["Surfing", "Nature Viewing", "Wildlife Viewing", "Swimming with Caution", "Kayaking", "Tidepooling", "Hiking", "Biking", "Horseback Riding", "Scuba Diving"],
     "hours": "6AM to Sunset",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/995US2d.jpg"
   },
   { "name": "Huntington State Beach",
     "county": "Orange County",
@@ -252,7 +271,8 @@ const beaches = [
     "camping": false,
     "activities": ["Swimming with Caution", "Surfing", "Fishing", "Sunbathing", "Volleyball", "Basketball", "Biking", "Wildlife Viewing"],
     "hours": "6AM-10PM",
-    "fire-pits": true
+    "fire-pits": true,
+    "image": "https://i.imgur.com/M21ONlY.jpg"
   },
   { "name": "Newport Beach",
     "county": "Orange County",
@@ -264,7 +284,8 @@ const beaches = [
     "camping": false,
     "activities": ["Surfing", "Swimming with Caution", "Sunbathing", "Volleyball", "Wildlife Viewing", "Biking", "Skating"],
     "hours": "6AM-10PM",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/nuul5eh.jpg"
   },
   { "name": "Corona Del Mar State Beach",
     "county": "Orange County",
@@ -276,7 +297,8 @@ const beaches = [
     "camping": false,
     "activities": ["Swimming with Caution", "Surfing", "Volleyball", "Scuba Diving", "Kayaking", "Tidepooling", "Boating", "Wildlife Viewing"],
     "hours": "6AM-10PM",
-    "fire-pits": true
+    "fire-pits": true,
+    "image": "https://i.imgur.com/qlIBikh.jpg"
   },
   { "name": "Salt Creek Beach",
     "county": "Orange County",
@@ -288,7 +310,8 @@ const beaches = [
     "camping": false,
     "activities": ["Swimming with Caution", "Surfing", "Tidepooling", "Grilling", "Wildlife Viewing", "Paddleboarding"],
     "hours": "5AM-12AM",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/o0uKATz.jpg"
   },
   { "name": "Crescent Bay Beach",
     "county": "Orange County",
@@ -300,7 +323,8 @@ const beaches = [
     "camping": false,
     "activities": ["Swimming with Caution", "Sunbathing", "Scuba Diving", "Tidepooling", "Kayaking", "Wildlife Viewing"],
     "hours": "6AM-10PM",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/gwn7OGW.jpg"
   },
   { "name": "Coronado Beach",
     "county": "San Diego County",
@@ -312,7 +336,8 @@ const beaches = [
     "camping": false,
     "activities": ["Photography", "Swimming", "Tidepooling", "Shipwreck Exploring", "Surfing", "Skating", "Biking"],
     "hours": "6AM-11PM",
-    "fire-pits": true
+    "fire-pits": true,
+    "image": "https://i.imgur.com/W92ls7l.jpg"
   },
   { "name": "Ocean Beach",
     "county": "San Diego County",
@@ -324,7 +349,8 @@ const beaches = [
     "camping": false,
     "activities": ["Swimming with Caution", "Volleyball", "Nature Viewing", "Tidepooling", "Fishing", "Biking", "Paddleboarding"],
     "hours": "4AM-2AM",
-    "fire-pits": true
+    "fire-pits": true,
+    "image": "https://i.imgur.com/Ohkb1x8.jpg"
   },
   { "name": "La Jolla Shores",
     "county": "San Diego County",
@@ -336,7 +362,8 @@ const beaches = [
     "camping": false,
     "activities": ["Surfing", "Swimming with Caution", "Scuba Diving", "Snorkeling", "Kayaking", "Tidepooling", "Paddleboarding", "Hiking"],
     "hours": "N/A",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/NOFL8Cp.jpg"
   },
   { "name": "Tourmaline Surfing Park",
     "county": "San Diego County",
@@ -348,7 +375,8 @@ const beaches = [
     "camping": false,
     "activities": ["Surfing", "Swimming with Caution", "Volleyball", "Paddleboarding", "Biking", "Skating", "Snorkeling"],
     "hours": "4AM-2AM",
-    "fire-pits": true
+    "fire-pits": true,
+    "image": "https://i.imgur.com/31wCcVK.jpg"
   },
   { "name": "Imperial Beach",
     "county": "San Diego County",
@@ -360,7 +388,8 @@ const beaches = [
     "camping": false,
     "activities": ["Surfing", "Swimming with Caution", "Fishing"],
     "hours": "7AM to Sunset",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/gzvCa6A.jpg"
   },
   { "name": "Silver Strand State Beach",
     "county": "San Diego County",
@@ -372,7 +401,8 @@ const beaches = [
     "camping": false,
     "activities": ["Wildlife Viewing", "Swimming with Caution", "Fishing", "Volleyball", "Biking"],
     "hours": "8AM - closing time varies",
-    "fire-pits": true
+    "fire-pits": true,
+    "image": "https://i.imgur.com/rJ4MQny.jpg"
   },
   { "name": "Del Mar City Beach",
     "county": "San Diego County",
@@ -384,7 +414,8 @@ const beaches = [
     "camping": false,
     "activities": ["Swimming with Caution", "Surfing", "Fishing", "Playground", "Volleyball", "Paddleboarding"],
     "hours": "7:15AM to Sunset",
-    "fire-pits": false
+    "fire-pits": false,
+    "image": "https://i.imgur.com/ZYgvjpI.jpg"
   }
 ];
 
