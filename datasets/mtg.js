@@ -10,7 +10,7 @@ const cards = [
       "Grishoalbrand"
     ],
     "price": 1.71,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/hou/83.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/hou/83.jpg?1517813031"
   },
   {
     "cardName": "Aether Vial",
@@ -22,7 +22,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 34.58,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/212.jpg?1530592604"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/212.jpg?1530592604"
   },
   {
     "cardName": "All Is Dust",
@@ -31,7 +31,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 10.49,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/1.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/1.jpg?1517813031"
   },
   {
     "cardName": "Alpine Moon",
@@ -40,7 +40,7 @@ const cards = [
       "Izzet Phoenix"
     ],
     "price": 0.76,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m19/128.jpg?1540432708"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m19/128.jpg?1540432708"
   },
   {
     "cardName": "Amulet of Vigor",
@@ -49,7 +49,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 20.73,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/wwk/121.jpg?1530592713"
+    "imageSource": "https://img.scryfall.com/cards/large/en/wwk/121.jpg?1530592713"
   },
   {
     "cardName": "Ancient Grudge",
@@ -61,7 +61,7 @@ const cards = [
       "Dredge"
     ],
     "price": 0.25,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/88.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/88.jpg?1517813031"
   },
   {
     "cardName": "Ancient Stirrings",
@@ -73,7 +73,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.91,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/159.jpg?1521723784"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/159.jpg?1521723784"
   },
   {
     "cardName": "Ancient Ziggurat",
@@ -82,7 +82,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 8.68,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/con/141.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/con/141.jpg?1517813031"
   },
   {
     "cardName": "Anger of the Gods",
@@ -100,7 +100,7 @@ const cards = [
       "Grishoalbrand"
     ],
     "price": 2.74,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/116.jpg?1530592167"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/116.jpg?1530592167"
   },
   {
     "cardName": "Animation Module",
@@ -109,7 +109,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.65,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/3/4/34bdc973-db45-46a6-ac48-ce88fb59920a.jpg?1543699820"
+    "imageSource": "https://img.scryfall.com/cards/large/front/3/4/34bdc973-db45-46a6-ac48-ce88fb59920a.jpg?1543699820"
   },
   {
     "cardName": "Arbor Elf",
@@ -118,7 +118,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.24,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/160.jpg?1521723812"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/160.jpg?1521723812"
   },
   {
     "cardName": "Arcbound Ravager",
@@ -128,7 +128,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 35.69,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mma/198.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mma/198.jpg?1517813031"
   },
   {
     "cardName": "Arcbound Worker",
@@ -137,7 +137,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.24,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mma/201.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mma/201.jpg?1517813031"
   },
   {
     "cardName": "Archfiend of Ifnir",
@@ -146,7 +146,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.38,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/3/3/33176679-d571-47a1-ae05-bed9b748491d.jpg?1543675179"
+    "imageSource": "https://img.scryfall.com/cards/large/front/3/3/33176679-d571-47a1-ae05-bed9b748491d.jpg?1543675179"
   },
   {
     "cardName": "Arclight Phoenix",
@@ -155,7 +155,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 24.05,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/7/8/787de9ce-02c5-4a17-a88b-d38e83dbeb0b.jpg?1544123471"
+    "imageSource": "https://img.scryfall.com/cards/large/front/7/8/787de9ce-02c5-4a17-a88b-d38e83dbeb0b.jpg?1544123471"
   },
   {
     "cardName": "Arid Mesa",
@@ -165,7 +165,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 37.62,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/229.jpg?1535416221"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/229.jpg?1535416221"
   },
   {
     "cardName": "Assassin's Trophy",
@@ -178,7 +178,7 @@ const cards = [
       "Counters Company"
     ],
     "price": 11.88,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/9/0/906b6e99-128f-4c11-8daf-16099d35b0d4.jpg?1538879946"
+    "imageSource": "https://img.scryfall.com/cards/large/front/9/0/906b6e99-128f-4c11-8daf-16099d35b0d4.jpg?1538879946"
   },
   {
     "cardName": "Auriok Champion",
@@ -187,7 +187,7 @@ const cards = [
       "Humans"
     ],
     "price": 3.82,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/9.jpg?1530591614"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/9.jpg?1530591614"
   },
   {
     "cardName": "Azusa, Lost but Seeking",
@@ -196,7 +196,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 21.48,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/161.jpg?1521723945"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/161.jpg?1521723945"
   },
   {
     "cardName": "Baneslayer Angel",
@@ -206,7 +206,7 @@ const cards = [
       "Jeskai Control"
     ],
     "price": 10.44,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m11/7.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m11/7.jpg?1517813031"
   },
   {
     "cardName": "Baral, Chief of Compliance",
@@ -215,7 +215,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 5.49,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/6/0/60e16d94-1166-4050-8554-686e153a7f80.jpg?1543698732"
+    "imageSource": "https://img.scryfall.com/cards/large/front/6/0/60e16d94-1166-4050-8554-686e153a7f80.jpg?1543698732"
   },
   {
     "cardName": "Basilisk Collar",
@@ -224,7 +224,7 @@ const cards = [
       "Eldrazi Tron"
     ],
     "price": 4.3,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/216.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/216.jpg?1517813031"
   },
   {
     "cardName": "Beast Whisperer",
@@ -233,7 +233,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.11,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/9/d/9da6f595-41b2-4e52-b15a-6ad18e4232c7.jpg?1538879670"
+    "imageSource": "https://img.scryfall.com/cards/large/front/9/d/9da6f595-41b2-4e52-b15a-6ad18e4232c7.jpg?1538879670"
   },
   {
     "cardName": "Become Immense",
@@ -242,7 +242,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.24,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ktk/130.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ktk/130.jpg?1517813031"
   },
   {
     "cardName": "Bedlam Reveler",
@@ -251,7 +251,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 4.73,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/emn/118.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/emn/118.jpg?1517813031"
   },
   {
     "cardName": "Birds of Paradise",
@@ -261,7 +261,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 6.81,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cn2/176.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cn2/176.jpg?1517813031"
   },
   {
     "cardName": "Bitterblossom",
@@ -270,7 +270,7 @@ const cards = [
       "Mardu Pyromancer"
     ],
     "price": 30.2,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/5/4/547872bd-d2b3-4c24-b3fb-481e0c90c3c0.jpg?1545067989"
+    "imageSource": "https://img.scryfall.com/cards/large/front/5/4/547872bd-d2b3-4c24-b3fb-481e0c90c3c0.jpg?1545067989"
   },
   {
     "cardName": "Blackcleave Cliffs",
@@ -283,7 +283,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 40.51,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/som/224.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/som/224.jpg?1517813031"
   },
   {
     "cardName": "Blighted Agent",
@@ -292,7 +292,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.59,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/nph/29.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/nph/29.jpg?1517813031"
   },
   {
     "cardName": "Blinkmoth Nexus",
@@ -301,7 +301,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 6.11,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/236.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/236.jpg?1517813031"
   },
   {
     "cardName": "Blood Crypt",
@@ -316,7 +316,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 13.56,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/rtr/238.jpg?1535415839"
+    "imageSource": "https://img.scryfall.com/cards/large/en/rtr/238.jpg?1535415839"
   },
   {
     "cardName": "Blood Moon",
@@ -329,7 +329,7 @@ const cards = [
       "Mardu Pyromancer"
     ],
     "price": 15.5,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/122.jpg?1521727023"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/122.jpg?1521727023"
   },
   {
     "cardName": "Bloodbraid Elf",
@@ -340,7 +340,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.85,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/pca/84.jpg?1518432768"
+    "imageSource": "https://img.scryfall.com/cards/large/en/pca/84.jpg?1518432768"
   },
   {
     "cardName": "Bloodghast",
@@ -350,7 +350,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 15.55,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/82.jpg?1530592021"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/82.jpg?1530592021"
   },
   {
     "cardName": "Bloodstained Mire",
@@ -364,7 +364,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 21.43,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ktk/230.jpg?1535416228"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ktk/230.jpg?1535416228"
   },
   {
     "cardName": "Blooming Marsh",
@@ -376,7 +376,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 4.59,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/9/0/90da33d4-fe9c-42fe-b326-2fe337dc3ecd.jpg?1543700258"
+    "imageSource": "https://img.scryfall.com/cards/large/front/9/0/90da33d4-fe9c-42fe-b326-2fe337dc3ecd.jpg?1543700258"
   },
   {
     "cardName": "Blossoming Defense",
@@ -385,7 +385,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.43,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/5/c/5c026c39-b09c-408a-844f-fb5eb785862a.jpg?1543699422"
+    "imageSource": "https://img.scryfall.com/cards/large/front/5/c/5c026c39-b09c-408a-844f-fb5eb785862a.jpg?1543699422"
   },
   {
     "cardName": "Bojuka Bog",
@@ -394,7 +394,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.25,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c18/238.jpg?1535505242"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c18/238.jpg?1535505242"
   },
   {
     "cardName": "Borborygmos Enraged",
@@ -403,7 +403,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.43,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/gtc/147.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/gtc/147.jpg?1517813031"
   },
   {
     "cardName": "Boros Charm",
@@ -412,7 +412,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.35,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/4/c/4cf1419c-11fa-46a1-89e0-11b14ec40fa7.jpg?1541002784"
+    "imageSource": "https://img.scryfall.com/cards/large/front/4/c/4cf1419c-11fa-46a1-89e0-11b14ec40fa7.jpg?1541002784"
   },
   {
     "cardName": "Boros Garrison",
@@ -421,7 +421,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.11,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/a/d/adab83d0-780b-4a6a-aa0b-c9a639708083.jpg?1541002844"
+    "imageSource": "https://img.scryfall.com/cards/large/front/a/d/adab83d0-780b-4a6a-aa0b-c9a639708083.jpg?1541002844"
   },
   {
     "cardName": "Botanical Sanctum",
@@ -430,7 +430,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.99,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/8/7/8744471b-a528-47d9-84d0-4526273f55e9.jpg?1543700265"
+    "imageSource": "https://img.scryfall.com/cards/large/front/8/7/8744471b-a528-47d9-84d0-4526273f55e9.jpg?1543700265"
   },
   {
     "cardName": "Breeding Pool",
@@ -440,7 +440,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 12.22,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/gtc/240.jpg?1535415825"
+    "imageSource": "https://img.scryfall.com/cards/large/en/gtc/240.jpg?1535415825"
   },
   {
     "cardName": "Buried Ruin",
@@ -449,7 +449,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.95,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c18/239.jpg?1535505259"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c18/239.jpg?1535505259"
   },
   {
     "cardName": "Burning Inquiry",
@@ -458,7 +458,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.66,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m10/128.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m10/128.jpg?1517813031"
   },
   {
     "cardName": "Cathartic Reunion",
@@ -467,7 +467,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.22,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/c/6/c68a6226-6dd7-4e1a-9e8a-124eef2caa13.jpg?1543699059"
+    "imageSource": "https://img.scryfall.com/cards/large/front/c/6/c68a6226-6dd7-4e1a-9e8a-124eef2caa13.jpg?1543699059"
   },
   {
     "cardName": "Cavern of Souls",
@@ -479,7 +479,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 59.5,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/232.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/232.jpg?1517813031"
   },
   {
     "cardName": "Caves of Koilos",
@@ -488,7 +488,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.88,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c16/285.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c16/285.jpg?1517813031"
   },
   {
     "cardName": "Celestial Colonnade",
@@ -498,7 +498,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 19.16,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/4/c/4c830a99-595b-4aed-9f6b-85a78917f498.jpg?1545068100"
+    "imageSource": "https://img.scryfall.com/cards/large/front/4/c/4c830a99-595b-4aed-9f6b-85a78917f498.jpg?1545068100"
   },
   {
     "cardName": "Celestial Purge",
@@ -507,7 +507,7 @@ const cards = [
       "UW Control"
     ],
     "price": 0.17,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/11.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/11.jpg?1517813031"
   },
   {
     "cardName": "Ceremonious Rejection",
@@ -520,7 +520,7 @@ const cards = [
       "Blue Moon"
     ],
     "price": 0.51,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/0/8/08c5ed8e-4804-4042-8a1d-ad24c6846816.jpg?1543698524"
+    "imageSource": "https://img.scryfall.com/cards/large/front/0/8/08c5ed8e-4804-4042-8a1d-ad24c6846816.jpg?1543698524"
   },
   {
     "cardName": "Chalice of the Void",
@@ -529,7 +529,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 35.16,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/222.jpg?1521725918"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/222.jpg?1521725918"
   },
   {
     "cardName": "Champion of the Parish",
@@ -538,7 +538,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.92,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddq/4.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddq/4.jpg?1517813031"
   },
   {
     "cardName": "Chandra, Torch of Defiance",
@@ -550,7 +550,7 @@ const cards = [
       "Mardu Pyromancer"
     ],
     "price": 9.55,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/f/f/ff8086cd-b868-4f4e-823e-2635ad7ebc07.jpg?1543699067"
+    "imageSource": "https://img.scryfall.com/cards/large/front/f/f/ff8086cd-b868-4f4e-823e-2635ad7ebc07.jpg?1543699067"
   },
   {
     "cardName": "Chord of Calling",
@@ -559,7 +559,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 7.6,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m15/172.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m15/172.jpg?1517813031"
   },
   {
     "cardName": "Chromatic Sphere",
@@ -569,7 +569,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.69,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mrd/151.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mrd/151.jpg?1517813031"
   },
   {
     "cardName": "Chromatic Star",
@@ -579,7 +579,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 6.6,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/10e/314.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/10e/314.jpg?1517813031"
   },
   {
     "cardName": "Cinder Glade",
@@ -588,7 +588,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.61,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bfz/235.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bfz/235.jpg?1517813031"
   },
   {
     "cardName": "Collected Company",
@@ -598,7 +598,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 17.71,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/dtk/177.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/dtk/177.jpg?1517813031"
   },
   {
     "cardName": "Collective Brutality",
@@ -613,7 +613,7 @@ const cards = [
       "Mardu Pyromancer"
     ],
     "price": 14.67,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/emn/85.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/emn/85.jpg?1517813031"
   },
   {
     "cardName": "Commune with Nature",
@@ -622,7 +622,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.12,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/142.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/142.jpg?1517813031"
   },
   {
     "cardName": "Concealed Courtyard",
@@ -631,7 +631,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.09,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/c/8/c8769e97-aee8-4466-a9d7-0f4245ae4a97.jpg?1543700275"
+    "imageSource": "https://img.scryfall.com/cards/large/front/c/8/c8769e97-aee8-4466-a9d7-0f4245ae4a97.jpg?1543700275"
   },
   {
     "cardName": "Conflagrate",
@@ -642,7 +642,7 @@ const cards = [
       "Dredge"
     ],
     "price": 2.58,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/tsp/151.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/tsp/151.jpg?1517813031"
   },
   {
     "cardName": "Copperline Gorge",
@@ -651,7 +651,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 17.81,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/som/225.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/som/225.jpg?1517813031"
   },
   {
     "cardName": "Courser of Kruphix",
@@ -660,7 +660,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.31,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/164.jpg?1521660883"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/164.jpg?1521660883"
   },
   {
     "cardName": "Crackling Drake",
@@ -669,7 +669,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.2,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/f/0/f00fa3a7-e3e2-4b23-a126-a076e75b5dbd.jpg?1538880083"
+    "imageSource": "https://img.scryfall.com/cards/large/front/f/0/f00fa3a7-e3e2-4b23-a126-a076e75b5dbd.jpg?1538880083"
   },
   {
     "cardName": "Cranial Plating",
@@ -678,7 +678,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.8,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c16/249.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c16/249.jpg?1517813031"
   },
   {
     "cardName": "Creeping Chill",
@@ -687,7 +687,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.42,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/f/5/f5456173-7a08-4b5c-8450-7123375f4a86.jpg?1538878981"
+    "imageSource": "https://img.scryfall.com/cards/large/front/f/5/f5456173-7a08-4b5c-8450-7123375f4a86.jpg?1538878981"
   },
   {
     "cardName": "Crucible of Worlds",
@@ -696,7 +696,7 @@ const cards = [
       "Tron"
     ],
     "price": 12.44,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m19/229.jpg?1531451273"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m19/229.jpg?1531451273"
   },
   {
     "cardName": "Crumbling Vestige",
@@ -705,7 +705,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.07,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ogw/170.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ogw/170.jpg?1517813031"
   },
   {
     "cardName": "Cryptic Command",
@@ -716,7 +716,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 21.3,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/48.jpg?1530591840"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/48.jpg?1530591840"
   },
   {
     "cardName": "Dakmor Salvage",
@@ -725,7 +725,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.1,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mma/222.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mma/222.jpg?1517813031"
   },
   {
     "cardName": "Damnation",
@@ -734,7 +734,7 @@ const cards = [
       "The Rock"
     ],
     "price": 27.23,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/63.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/63.jpg?1517813031"
   },
   {
     "cardName": "Damping Sphere",
@@ -748,7 +748,7 @@ const cards = [
       "Elves"
     ],
     "price": 0.83,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/dom/213.jpg?1524792143"
+    "imageSource": "https://img.scryfall.com/cards/large/en/dom/213.jpg?1524792143"
   },
   {
     "cardName": "Dark Confidant",
@@ -758,7 +758,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 50.87,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/75.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/75.jpg?1517813031"
   },
   {
     "cardName": "Darkblast",
@@ -769,7 +769,7 @@ const cards = [
       "Dredge"
     ],
     "price": 0.4,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/6/a/6a01bf1a-5868-4338-bf16-c35437e9bc2f.jpg?1541002922"
+    "imageSource": "https://img.scryfall.com/cards/large/front/6/a/6a01bf1a-5868-4338-bf16-c35437e9bc2f.jpg?1541002922"
   },
   {
     "cardName": "Darkslick Shores",
@@ -778,7 +778,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 8.5,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/som/226.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/som/226.jpg?1517813031"
   },
   {
     "cardName": "Darksteel Citadel",
@@ -789,7 +789,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.45,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c18/241.jpg?1535505290"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c18/241.jpg?1535505290"
   },
   {
     "cardName": "Dawn of Hope",
@@ -798,7 +798,7 @@ const cards = [
       "Hardened Scales"
     ],
     "price": 0.56,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/c/f/cf2a9e82-8670-4b7f-b5f0-8e10f8aeff1c.jpg?1538878242"
+    "imageSource": "https://img.scryfall.com/cards/large/front/c/f/cf2a9e82-8670-4b7f-b5f0-8e10f8aeff1c.jpg?1538878242"
   },
   {
     "cardName": "Daybreak Coronet",
@@ -807,7 +807,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 5.64,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/14.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/14.jpg?1517813031"
   },
   {
     "cardName": "Death's Shadow",
@@ -816,7 +816,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 10.12,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/64.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/64.jpg?1517813031"
   },
   {
     "cardName": "Deathgorge Scavenger",
@@ -825,7 +825,7 @@ const cards = [
       "Living End"
     ],
     "price": 1.34,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/xln/184.jpg?1527430260"
+    "imageSource": "https://img.scryfall.com/cards/large/en/xln/184.jpg?1527430260"
   },
   {
     "cardName": "Demonic Dread",
@@ -834,7 +834,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.23,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/arb/38.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/arb/38.jpg?1517813031"
   },
   {
     "cardName": "Deprive",
@@ -843,7 +843,7 @@ const cards = [
       "Merfolk"
     ],
     "price": 0.79,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/roe/59.jpg?1530592234"
+    "imageSource": "https://img.scryfall.com/cards/large/en/roe/59.jpg?1530592234"
   },
   {
     "cardName": "Desert Cerodon",
@@ -852,7 +852,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.07,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/2/0/2047c2e5-8b3b-4c6b-91cf-3484f21e52f0.jpg?1543675549"
+    "imageSource": "https://img.scryfall.com/cards/large/front/2/0/2047c2e5-8b3b-4c6b-91cf-3484f21e52f0.jpg?1543675549"
   },
   {
     "cardName": "Desperate Ritual",
@@ -862,7 +862,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.32,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/dds/14.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/dds/14.jpg?1517813031"
   },
   {
     "cardName": "Detention Sphere",
@@ -871,7 +871,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.01,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/rtr/155.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/rtr/155.jpg?1517813031"
   },
   {
     "cardName": "Devoted Druid",
@@ -880,7 +880,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.14,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/shm/110.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/shm/110.jpg?1517813031"
   },
   {
     "cardName": "Disdainful Stroke",
@@ -891,7 +891,7 @@ const cards = [
       "Blue Moon"
     ],
     "price": 0.07,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/0/1/0193dfa3-8409-44be-b4be-6c3cad42d4a4.jpg?1538878647"
+    "imageSource": "https://img.scryfall.com/cards/large/front/0/1/0193dfa3-8409-44be-b4be-6c3cad42d4a4.jpg?1538878647"
   },
   {
     "cardName": "Dismember",
@@ -908,7 +908,7 @@ const cards = [
       "Amulet Titan"
     ],
     "price": 3.18,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/79.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/79.jpg?1517813031"
   },
   {
     "cardName": "Dispatch",
@@ -917,7 +917,7 @@ const cards = [
       "Affinity"
     ],
     "price": 0.89,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/15.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/15.jpg?1517813031"
   },
   {
     "cardName": "Dispel",
@@ -931,7 +931,7 @@ const cards = [
       "Grishoalbrand"
     ],
     "price": 0.18,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bfz/76.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bfz/76.jpg?1517813031"
   },
   {
     "cardName": "Distortion Strike",
@@ -942,7 +942,7 @@ const cards = [
       "Infect"
     ],
     "price": 0.29,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/52.jpg?1530591863"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/52.jpg?1530591863"
   },
   {
     "cardName": "Dreadbore",
@@ -951,7 +951,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.46,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/e01/83.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/e01/83.jpg?1517813031"
   },
   {
     "cardName": "Drogskol Captain",
@@ -960,7 +960,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.93,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/b/8/b8238e36-625f-460d-9e39-fd501e65490c.jpg?1545408285"
+    "imageSource": "https://img.scryfall.com/cards/large/front/b/8/b8238e36-625f-460d-9e39-fd501e65490c.jpg?1545408285"
   },
   {
     "cardName": "Dryad Arbor",
@@ -971,7 +971,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 12.8,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/fut/174.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/fut/174.jpg?1517813031"
   },
   {
     "cardName": "Duress",
@@ -980,7 +980,7 @@ const cards = [
       "The Rock"
     ],
     "price": 0.08,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m19/94.jpg?1531451876"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m19/94.jpg?1531451876"
   },
   {
     "cardName": "Duskwatch Recruiter",
@@ -989,7 +989,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.91,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/soi/203a.jpg?1518204802"
+    "imageSource": "https://img.scryfall.com/cards/large/en/soi/203a.jpg?1518204802"
   },
   {
     "cardName": "Dwynen's Elite",
@@ -998,7 +998,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.44,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddu/3.jpg?1523060589"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddu/3.jpg?1523060589"
   },
   {
     "cardName": "Echoing Truth",
@@ -1007,7 +1007,7 @@ const cards = [
       "Storm"
     ],
     "price": 0.85,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c15/93.jpg?1519044662"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c15/93.jpg?1519044662"
   },
   {
     "cardName": "Eidolon of the Great Revel",
@@ -1016,7 +1016,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 4.05,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/128.jpg?1521727207"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/128.jpg?1521727207"
   },
   {
     "cardName": "Eldrazi Displacer",
@@ -1025,7 +1025,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.79,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ogw/13.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ogw/13.jpg?1517813031"
   },
   {
     "cardName": "Eldrazi Temple",
@@ -1035,7 +1035,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 5.24,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddp/68.jpg?1530591527"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddp/68.jpg?1530591527"
   },
   {
     "cardName": "Eldritch Evolution",
@@ -1044,7 +1044,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.9,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/emn/155.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/emn/155.jpg?1517813031"
   },
   {
     "cardName": "Elves of Deep Shadow",
@@ -1053,7 +1053,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.14,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/f/d/fd1cd0c9-ab13-48c4-b5bf-942ca75608cd.jpg?1541002946"
+    "imageSource": "https://img.scryfall.com/cards/large/front/f/d/fd1cd0c9-ab13-48c4-b5bf-942ca75608cd.jpg?1541002946"
   },
   {
     "cardName": "Elvish Archdruid",
@@ -1062,7 +1062,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.46,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddu/5.jpg?1523060610"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddu/5.jpg?1523060610"
   },
   {
     "cardName": "Elvish Clancaller",
@@ -1071,7 +1071,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.8,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m19/179.jpg?1531450797"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m19/179.jpg?1531450797"
   },
   {
     "cardName": "Elvish Mystic",
@@ -1080,7 +1080,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.13,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddu/7.jpg?1523060631"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddu/7.jpg?1523060631"
   },
   {
     "cardName": "Empty the Warrens",
@@ -1091,7 +1091,7 @@ const cards = [
       "Storm"
     ],
     "price": 0.4,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/dds/15.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/dds/15.jpg?1517813031"
   },
   {
     "cardName": "Emrakul, the Aeons Torn",
@@ -1102,7 +1102,7 @@ const cards = [
       "Grishoalbrand"
     ],
     "price": 26.6,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/3.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/3.jpg?1517813031"
   },
   {
     "cardName": "Emrakul, the Promised End",
@@ -1111,7 +1111,7 @@ const cards = [
       "Tron"
     ],
     "price": 16.33,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/emn/6.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/emn/6.jpg?1517813031"
   },
   {
     "cardName": "Endbringer",
@@ -1120,7 +1120,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.55,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ogw/3.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ogw/3.jpg?1517813031"
   },
   {
     "cardName": "Engineered Explosives",
@@ -1136,7 +1136,7 @@ const cards = [
       "Grishoalbrand"
     ],
     "price": 25.93,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/f/1/f1e2b69e-b06b-46a5-ac57-a6a180eeecc7.jpg?1545068740"
+    "imageSource": "https://img.scryfall.com/cards/large/front/f/1/f1e2b69e-b06b-46a5-ac57-a6a180eeecc7.jpg?1545068740"
   },
   {
     "cardName": "Etched Champion",
@@ -1147,7 +1147,7 @@ const cards = [
       "Affinity"
     ],
     "price": 2.64,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/209.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/209.jpg?1517813031"
   },
   {
     "cardName": "Ethereal Armor",
@@ -1156,7 +1156,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.38,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/rtr/9.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/rtr/9.jpg?1517813031"
   },
   {
     "cardName": "Evolutionary Leap",
@@ -1165,7 +1165,7 @@ const cards = [
       "Hardened Scales"
     ],
     "price": 0.94,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ori/176.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ori/176.jpg?1517813031"
   },
   {
     "cardName": "Expedition Map",
@@ -1175,7 +1175,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.47,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/213.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/213.jpg?1517813031"
   },
   {
     "cardName": "Explore",
@@ -1184,7 +1184,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.17,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c18/143.jpg?1535503918"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c18/143.jpg?1535503918"
   },
   {
     "cardName": "Ezuri, Renegade Leader",
@@ -1194,7 +1194,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.37,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddu/1.jpg?1523060569"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddu/1.jpg?1523060569"
   },
   {
     "cardName": "Faerie Macabre",
@@ -1205,7 +1205,7 @@ const cards = [
       "Living End"
     ],
     "price": 0.76,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/gvl/42.jpg?1520561532"
+    "imageSource": "https://img.scryfall.com/cards/large/en/gvl/42.jpg?1520561532"
   },
   {
     "cardName": "Faithless Looting",
@@ -1219,7 +1219,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.72,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cm2/96.jpg?1534111662"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cm2/96.jpg?1534111662"
   },
   {
     "cardName": "Farseek",
@@ -1228,7 +1228,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.69,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c17/149.jpg?1531251195"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c17/149.jpg?1531251195"
   },
   {
     "cardName": "Fatal Push",
@@ -1244,7 +1244,7 @@ const cards = [
       "Eldrazi and Taxes"
     ],
     "price": 3.42,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/b/5/b5e81649-9954-424c-89d1-f87d73b66047.jpg?1543699193"
+    "imageSource": "https://img.scryfall.com/cards/large/front/b/5/b5e81649-9954-424c-89d1-f87d73b66047.jpg?1543699193"
   },
   {
     "cardName": "Field of Ruin",
@@ -1255,7 +1255,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.46,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/xln/254.jpg?1527431443"
+    "imageSource": "https://img.scryfall.com/cards/large/en/xln/254.jpg?1527431443"
   },
   {
     "cardName": "Fiend Hunter",
@@ -1264,7 +1264,7 @@ const cards = [
       "Eldrazi and Taxes"
     ],
     "price": 0.09,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/14.jpg?1521658895"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/14.jpg?1521658895"
   },
   {
     "cardName": "Firespout",
@@ -1274,7 +1274,7 @@ const cards = [
       "Amulet Titan"
     ],
     "price": 1.13,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cmd/199.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cmd/199.jpg?1517813031"
   },
   {
     "cardName": "Flame Slash",
@@ -1287,7 +1287,7 @@ const cards = [
       "Storm"
     ],
     "price": 0.21,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cn2/157.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cn2/157.jpg?1517813031"
   },
   {
     "cardName": "Flameblade Adept",
@@ -1296,7 +1296,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.37,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/f/9/f974d05a-3b31-4661-af18-58d87b76f19e.jpg?1543675570"
+    "imageSource": "https://img.scryfall.com/cards/large/front/f/9/f974d05a-3b31-4661-af18-58d87b76f19e.jpg?1543675570"
   },
   {
     "cardName": "Flamewake Phoenix",
@@ -1305,7 +1305,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.16,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/frf/100.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/frf/100.jpg?1517813031"
   },
   {
     "cardName": "Flickerwisp",
@@ -1314,7 +1314,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.75,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/e01/9.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/e01/9.jpg?1517813031"
   },
   {
     "cardName": "Flooded Strand",
@@ -1326,7 +1326,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 17.67,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ktk/233.jpg?1535416226"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ktk/233.jpg?1535416226"
   },
   {
     "cardName": "Forest",
@@ -1348,7 +1348,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/5/8/58fe058d-7796-4233-8d74-2a12f9bd0023.jpg?1543675077"
+    "imageSource": "https://img.scryfall.com/cards/large/front/5/8/58fe058d-7796-4233-8d74-2a12f9bd0023.jpg?1543675077"
   },
   {
     "cardName": "Fracturing Gust",
@@ -1357,7 +1357,7 @@ const cards = [
       "Elves"
     ],
     "price": 10.51,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/shm/227.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/shm/227.jpg?1517813031"
   },
   {
     "cardName": "Fulminator Mage",
@@ -1369,7 +1369,7 @@ const cards = [
       "The Rock"
     ],
     "price": 7.64,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/2/1/2168dd99-f4a9-4fe9-89d4-fc0effeb8f89.jpg?1545068841"
+    "imageSource": "https://img.scryfall.com/cards/large/front/2/1/2168dd99-f4a9-4fe9-89d4-fc0effeb8f89.jpg?1545068841"
   },
   {
     "cardName": "Gaddock Teeg",
@@ -1379,7 +1379,7 @@ const cards = [
       "Bogles"
     ],
     "price": 8.77,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/f/4/f40cfba1-08b5-4241-bd36-8ae18e584557.jpg?1545068911"
+    "imageSource": "https://img.scryfall.com/cards/large/front/f/4/f40cfba1-08b5-4241-bd36-8ae18e584557.jpg?1545068911"
   },
   {
     "cardName": "Gaea's Revenge",
@@ -1388,7 +1388,7 @@ const cards = [
       "Titanshift"
     ],
     "price": 0.24,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ori/177.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ori/177.jpg?1517813031"
   },
   {
     "cardName": "Galvanic Blast",
@@ -1399,7 +1399,7 @@ const cards = [
       "KCI"
     ],
     "price": 0.4,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddu/45.jpg?1523061049"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddu/45.jpg?1523061049"
   },
   {
     "cardName": "Gavony Township",
@@ -1409,7 +1409,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 4.31,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/b/5/b5f73443-2fe8-424f-8e71-fc7ce1f3a3eb.jpg?1545409072"
+    "imageSource": "https://img.scryfall.com/cards/large/front/b/5/b5f73443-2fe8-424f-8e71-fc7ce1f3a3eb.jpg?1545409072"
   },
   {
     "cardName": "Geist of Saint Traft",
@@ -1418,7 +1418,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 6.59,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddq/1.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddq/1.jpg?1517813031"
   },
   {
     "cardName": "Gemstone Mine",
@@ -1429,7 +1429,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 9.46,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/tsb/119.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/tsb/119.jpg?1517813031"
   },
   {
     "cardName": "Ghirapur Aether Grid",
@@ -1438,7 +1438,7 @@ const cards = [
       "Affinity"
     ],
     "price": 0.23,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ori/148.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ori/148.jpg?1517813031"
   },
   {
     "cardName": "Ghost Quarter",
@@ -1451,7 +1451,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.65,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cm2/253.jpg?1534113421"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cm2/253.jpg?1534113421"
   },
   {
     "cardName": "Gideon, Ally of Zendikar",
@@ -1460,7 +1460,7 @@ const cards = [
       "Eldrazi and Taxes"
     ],
     "price": 6.53,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bfz/29.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bfz/29.jpg?1517813031"
   },
   {
     "cardName": "Gifts Ungiven",
@@ -1469,7 +1469,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.02,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/40.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/40.jpg?1517813031"
   },
   {
     "cardName": "Gigadrowse",
@@ -1478,7 +1478,7 @@ const cards = [
       "Storm"
     ],
     "price": 0.52,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/gpt/26.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/gpt/26.jpg?1517813031"
   },
   {
     "cardName": "Gilt-Leaf Palace",
@@ -1487,7 +1487,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 29.35,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/lrw/268.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/lrw/268.jpg?1517813031"
   },
   {
     "cardName": "Glacial Fortress",
@@ -1496,7 +1496,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 4.53,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/xln/255.jpg?1527431458"
+    "imageSource": "https://img.scryfall.com/cards/large/en/xln/255.jpg?1527431458"
   },
   {
     "cardName": "Gladecover Scout",
@@ -1505,7 +1505,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.17,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m14/176.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m14/176.jpg?1517813031"
   },
   {
     "cardName": "Glimmervoid",
@@ -1514,7 +1514,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 7.24,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mma/223.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mma/223.jpg?1517813031"
   },
   {
     "cardName": "Glistener Elf",
@@ -1523,7 +1523,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.75,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/nph/111.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/nph/111.jpg?1517813031"
   },
   {
     "cardName": "Goblin Electromancer",
@@ -1532,7 +1532,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.09,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/0/a/0ae987da-e4b5-4b82-843c-6aaa87262fc8.jpg?1538880243"
+    "imageSource": "https://img.scryfall.com/cards/large/front/0/a/0ae987da-e4b5-4b82-843c-6aaa87262fc8.jpg?1538880243"
   },
   {
     "cardName": "Goblin Guide",
@@ -1541,7 +1541,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 16.2,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/96.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/96.jpg?1517813031"
   },
   {
     "cardName": "Goblin Lore",
@@ -1550,7 +1550,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 19.97,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/10e/208.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/10e/208.jpg?1517813031"
   },
   {
     "cardName": "Goblin Rabblemaster",
@@ -1559,7 +1559,7 @@ const cards = [
       "Mardu Pyromancer"
     ],
     "price": 3.29,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddt/46.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddt/46.jpg?1517813031"
   },
   {
     "cardName": "Godless Shrine",
@@ -1568,7 +1568,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 9.36,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/gtc/242.jpg?1535415828"
+    "imageSource": "https://img.scryfall.com/cards/large/en/gtc/242.jpg?1535415828"
   },
   {
     "cardName": "Golgari Thug",
@@ -1577,7 +1577,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 4.25,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddj/48.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddj/48.jpg?1517813031"
   },
   {
     "cardName": "Goryo's Vengeance",
@@ -1586,7 +1586,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 10.36,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/6/2/6261205d-3506-4f0a-98ce-690f40df7a5a.jpg?1545068958"
+    "imageSource": "https://img.scryfall.com/cards/large/front/6/2/6261205d-3506-4f0a-98ce-690f40df7a5a.jpg?1545068958"
   },
   {
     "cardName": "Grafdigger's Cage",
@@ -1597,7 +1597,7 @@ const cards = [
       "Ponza"
     ],
     "price": 4.49,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/221.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/221.jpg?1517813031"
   },
   {
     "cardName": "Grapeshot",
@@ -1606,7 +1606,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.92,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/dds/16.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/dds/16.jpg?1517813031"
   },
   {
     "cardName": "Grim Lavamancer",
@@ -1618,7 +1618,7 @@ const cards = [
       "Burn"
     ],
     "price": 10.04,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/e01/50.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/e01/50.jpg?1517813031"
   },
   {
     "cardName": "Griselbrand",
@@ -1627,7 +1627,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 13.09,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/72.jpg?1523883086"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/72.jpg?1523883086"
   },
   {
     "cardName": "Groundswell",
@@ -1636,7 +1636,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.11,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddp/15.jpg?1530591294"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddp/15.jpg?1530591294"
   },
   {
     "cardName": "Grove of the Burnwillows",
@@ -1646,7 +1646,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 10.66,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/238.jpg?1530592706"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/238.jpg?1530592706"
   },
   {
     "cardName": "Gruul Turf",
@@ -1655,7 +1655,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.19,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c18/252.jpg?1535505444"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c18/252.jpg?1535505444"
   },
   {
     "cardName": "Gryff's Boon",
@@ -1664,7 +1664,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.22,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/soi/20.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/soi/20.jpg?1517813031"
   },
   {
     "cardName": "Gurmag Angler",
@@ -1674,7 +1674,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.54,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/frf/72.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/frf/72.jpg?1517813031"
   },
   {
     "cardName": "Gut Shot",
@@ -1686,7 +1686,7 @@ const cards = [
       "Merfolk"
     ],
     "price": 3.07,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/117.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/117.jpg?1517813031"
   },
   {
     "cardName": "Hallowed Fountain",
@@ -1697,7 +1697,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 8.06,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/rtr/241.jpg?1535415840"
+    "imageSource": "https://img.scryfall.com/cards/large/en/rtr/241.jpg?1535415840"
   },
   {
     "cardName": "Hangarback Walker",
@@ -1708,7 +1708,7 @@ const cards = [
       "Eldrazi Tron"
     ],
     "price": 6.96,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ori/229.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ori/229.jpg?1517813031"
   },
   {
     "cardName": "Hardened Scales",
@@ -1717,7 +1717,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 4.77,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cm2/138.jpg?1534112133"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cm2/138.jpg?1534112133"
   },
   {
     "cardName": "Hazoret the Fervent",
@@ -1726,7 +1726,7 @@ const cards = [
       "Mardu Pyromancer"
     ],
     "price": 3.02,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/3/6/36ed9f9d-99a7-49f4-b0ad-d71355809d32.jpg?1543675610"
+    "imageSource": "https://img.scryfall.com/cards/large/front/3/6/36ed9f9d-99a7-49f4-b0ad-d71355809d32.jpg?1543675610"
   },
   {
     "cardName": "Heritage Druid",
@@ -1735,7 +1735,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 6.46,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ema/171.jpg?1519048857"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ema/171.jpg?1519048857"
   },
   {
     "cardName": "Hieroglyphic Illumination",
@@ -1744,7 +1744,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.15,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/c/6/c60a0e75-53bb-43e4-890f-0e1972a7e0b9.jpg?1543675002"
+    "imageSource": "https://img.scryfall.com/cards/large/front/c/6/c60a0e75-53bb-43e4-890f-0e1972a7e0b9.jpg?1543675002"
   },
   {
     "cardName": "Hissing Quagmire",
@@ -1753,7 +1753,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.66,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ogw/171.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ogw/171.jpg?1517813031"
   },
   {
     "cardName": "Hollow One",
@@ -1762,7 +1762,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.4,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/hou/163.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/hou/163.jpg?1517813031"
   },
   {
     "cardName": "Horizon Canopy",
@@ -1776,7 +1776,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 63.44,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/240.jpg?1530592713"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/240.jpg?1530592713"
   },
   {
     "cardName": "Horror of the Broken Lands",
@@ -1785,7 +1785,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.06,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/93.jpg?1521726347"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/93.jpg?1521726347"
   },
   {
     "cardName": "Hyena Umbra",
@@ -1794,7 +1794,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.89,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/pca/8.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/pca/8.jpg?1517813031"
   },
   {
     "cardName": "Ichor Wellspring",
@@ -1803,7 +1803,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.15,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cm2/193.jpg?1534112776"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cm2/193.jpg?1534112776"
   },
   {
     "cardName": "Ichorclaw Myr",
@@ -1812,7 +1812,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.23,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/som/166.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/som/166.jpg?1517813031"
   },
   {
     "cardName": "Inferno Titan",
@@ -1821,7 +1821,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.14,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cm2/109.jpg?1534111814"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cm2/109.jpg?1534111814"
   },
   {
     "cardName": "Ingot Chewer",
@@ -1830,7 +1830,7 @@ const cards = [
       "Living End"
     ],
     "price": 0.46,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cm2/110.jpg?1534111825"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cm2/110.jpg?1534111825"
   },
   {
     "cardName": "Inkmoth Nexus",
@@ -1841,7 +1841,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 15.96,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mbs/145.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mbs/145.jpg?1517813031"
   },
   {
     "cardName": "Inquisition of Kozilek",
@@ -1853,7 +1853,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 4.34,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/75.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/75.jpg?1517813031"
   },
   {
     "cardName": "Inspiring Vantage",
@@ -1862,7 +1862,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.8,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/1/6/160ac412-005f-48ca-a204-10207307c6c2.jpg?1543700284"
+    "imageSource": "https://img.scryfall.com/cards/large/front/1/6/160ac412-005f-48ca-a204-10207307c6c2.jpg?1543700284"
   },
   {
     "cardName": "Inventors' Fair",
@@ -1872,7 +1872,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.04,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/2/7/275471e3-ded1-40ac-91ef-369dce5764d9.jpg?1543700291"
+    "imageSource": "https://img.scryfall.com/cards/large/front/2/7/275471e3-ded1-40ac-91ef-369dce5764d9.jpg?1543700291"
   },
   {
     "cardName": "Invisible Stalker",
@@ -1881,7 +1881,7 @@ const cards = [
       "Infect"
     ],
     "price": 1.82,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/0/0/0013620d-8e17-4246-86bf-71eafd51b806.jpg?1545407378"
+    "imageSource": "https://img.scryfall.com/cards/large/front/0/0/0013620d-8e17-4246-86bf-71eafd51b806.jpg?1545407378"
   },
   {
     "cardName": "Ishkanah, Grafwidow",
@@ -1890,7 +1890,7 @@ const cards = [
       "Jund"
     ],
     "price": 0.69,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/emn/162.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/emn/162.jpg?1517813031"
   },
   {
     "cardName": "Island",
@@ -1909,7 +1909,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/0/b/0ba8851d-0b25-4232-acd3-594b5b25f16e.jpg?1543675020"
+    "imageSource": "https://img.scryfall.com/cards/large/front/0/b/0ba8851d-0b25-4232-acd3-594b5b25f16e.jpg?1543675020"
   },
   {
     "cardName": "Izzet Charm",
@@ -1920,7 +1920,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.22,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/b/8/b8f5032a-bf0d-4a66-b3d4-32b2ec61d308.jpg?1541002878"
+    "imageSource": "https://img.scryfall.com/cards/large/front/b/8/b8f5032a-bf0d-4a66-b3d4-32b2ec61d308.jpg?1541002878"
   },
   {
     "cardName": "Izzet Staticaster",
@@ -1930,7 +1930,7 @@ const cards = [
       "Humans"
     ],
     "price": 0.4,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/rtr/173.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/rtr/173.jpg?1517813031"
   },
   {
     "cardName": "Jace, the Mind Sculptor",
@@ -1941,7 +1941,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 89.34,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/62.jpg?1521725550"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/62.jpg?1521725550"
   },
   {
     "cardName": "Kalitas, Traitor of Ghet",
@@ -1952,7 +1952,7 @@ const cards = [
       "Jund"
     ],
     "price": 6.9,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ogw/86.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ogw/86.jpg?1517813031"
   },
   {
     "cardName": "Kambal, Consul of Allocation",
@@ -1962,7 +1962,7 @@ const cards = [
       "Mardu Pyromancer"
     ],
     "price": 0.82,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/4/9/49d61ddb-2662-427c-a97d-21e41b86130d.jpg?1543699734"
+    "imageSource": "https://img.scryfall.com/cards/large/front/4/9/49d61ddb-2662-427c-a97d-21e41b86130d.jpg?1543699734"
   },
   {
     "cardName": "Karn Liberated",
@@ -1971,7 +1971,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 68.4,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/4.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/4.jpg?1517813031"
   },
   {
     "cardName": "Karn, Scion of Urza",
@@ -1980,7 +1980,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 18.5,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/dom/1.jpg?1524789999"
+    "imageSource": "https://img.scryfall.com/cards/large/en/dom/1.jpg?1524789999"
   },
   {
     "cardName": "Kataki, War's Wage",
@@ -1990,7 +1990,7 @@ const cards = [
       "Bogles"
     ],
     "price": 3.86,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/md1/24.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/md1/24.jpg?1517813031"
   },
   {
     "cardName": "Keen Sense",
@@ -1999,7 +1999,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.75,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/plc/152.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/plc/152.jpg?1517813031"
   },
   {
     "cardName": "Kessig Wolf Run",
@@ -2008,7 +2008,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.48,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/4/a/4a8447fe-7368-470a-911a-1083ec6cc831.jpg?1545409102"
+    "imageSource": "https://img.scryfall.com/cards/large/front/4/a/4a8447fe-7368-470a-911a-1083ec6cc831.jpg?1545409102"
   },
   {
     "cardName": "Khalni Garden",
@@ -2017,7 +2017,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.11,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c18/262.jpg?1535505584"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c18/262.jpg?1535505584"
   },
   {
     "cardName": "Khalni Heart Expedition",
@@ -2026,7 +2026,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.17,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c18/154.jpg?1535504054"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c18/154.jpg?1535504054"
   },
   {
     "cardName": "Kitchen Finks",
@@ -2039,7 +2039,7 @@ const cards = [
       "Counters Company"
     ],
     "price": 1.79,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/a/8/a844d537-df73-422d-a154-f1c6b92d0469.jpg?1545069208"
+    "imageSource": "https://img.scryfall.com/cards/large/front/a/8/a844d537-df73-422d-a154-f1c6b92d0469.jpg?1545069208"
   },
   {
     "cardName": "Kitesail Freebooter",
@@ -2048,7 +2048,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.59,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/xln/110.jpg?1527429096"
+    "imageSource": "https://img.scryfall.com/cards/large/en/xln/110.jpg?1527429096"
   },
   {
     "cardName": "Knight of Autumn",
@@ -2059,7 +2059,7 @@ const cards = [
       "Counters Company"
     ],
     "price": 2.42,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/3/0/3028075c-5fc5-4942-a984-1ffcf7a8933d.jpg?1538880355"
+    "imageSource": "https://img.scryfall.com/cards/large/front/3/0/3028075c-5fc5-4942-a984-1ffcf7a8933d.jpg?1538880355"
   },
   {
     "cardName": "Kodama's Reach",
@@ -2068,7 +2068,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.18,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c17/154.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c17/154.jpg?1517813031"
   },
   {
     "cardName": "Kolaghan's Command",
@@ -2081,7 +2081,7 @@ const cards = [
       "Living End"
     ],
     "price": 15.12,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/dtk/224.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/dtk/224.jpg?1517813031"
   },
   {
     "cardName": "Kor Spiritdancer",
@@ -2090,7 +2090,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.88,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bbd/93.jpg?1529061785"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bbd/93.jpg?1529061785"
   },
   {
     "cardName": "Krark-Clan Ironworks",
@@ -2099,7 +2099,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 10.8,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/5dn/134.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/5dn/134.jpg?1517813031"
   },
   {
     "cardName": "Languish",
@@ -2108,7 +2108,7 @@ const cards = [
       "The Rock"
     ],
     "price": 0.5,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/c/a/ca2a667b-2ca1-4756-9524-5bcd3bca0f41.jpg?1543674761"
+    "imageSource": "https://img.scryfall.com/cards/large/front/c/a/ca2a667b-2ca1-4756-9524-5bcd3bca0f41.jpg?1543674761"
   },
   {
     "cardName": "Lava Spike",
@@ -2117,7 +2117,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.99,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mma/121.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mma/121.jpg?1517813031"
   },
   {
     "cardName": "Lead the Stampede",
@@ -2126,7 +2126,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.18,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddu/16.jpg?1523060724"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddu/16.jpg?1523060724"
   },
   {
     "cardName": "Leonin Arbiter",
@@ -2135,7 +2135,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.64,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c17/64.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c17/64.jpg?1517813031"
   },
   {
     "cardName": "Leyline of Sanctity",
@@ -2144,7 +2144,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 16.91,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/23.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/23.jpg?1517813031"
   },
   {
     "cardName": "Leyline of Vitality",
@@ -2153,7 +2153,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.1,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m11/183.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m11/183.jpg?1517813031"
   },
   {
     "cardName": "Leyline of the Void",
@@ -2164,7 +2164,7 @@ const cards = [
       "Dredge"
     ],
     "price": 42.13,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m11/101.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m11/101.jpg?1517813031"
   },
   {
     "cardName": "Life from the Loam",
@@ -2173,7 +2173,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 11.74,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/d/7/d7447c11-05a1-44e4-831a-0bacf97d447d.jpg?1545069739"
+    "imageSource": "https://img.scryfall.com/cards/large/front/d/7/d7447c11-05a1-44e4-831a-0bacf97d447d.jpg?1545069739"
   },
   {
     "cardName": "Lightning Axe",
@@ -2182,7 +2182,7 @@ const cards = [
       "Dredge"
     ],
     "price": 0.41,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/soi/170.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/soi/170.jpg?1517813031"
   },
   {
     "cardName": "Lightning Bolt",
@@ -2203,7 +2203,7 @@ const cards = [
       "Grishoalbrand"
     ],
     "price": 2.61,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/141.jpg?1521727517"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/141.jpg?1521727517"
   },
   {
     "cardName": "Lightning Helix",
@@ -2213,7 +2213,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.53,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/5/e/5e47b7d8-defb-4405-8afe-ca6339b29886.jpg?1541002810"
+    "imageSource": "https://img.scryfall.com/cards/large/front/5/e/5e47b7d8-defb-4405-8afe-ca6339b29886.jpg?1541002810"
   },
   {
     "cardName": "Liliana of the Veil",
@@ -2226,7 +2226,7 @@ const cards = [
       "Hollow One"
     ],
     "price": 71.61,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/e/6/e653437e-2e56-4443-aec5-5bb7d8860238.jpg?1545069791"
+    "imageSource": "https://img.scryfall.com/cards/large/front/e/6/e653437e-2e56-4443-aec5-5bb7d8860238.jpg?1545069791"
   },
   {
     "cardName": "Liliana, the Last Hope",
@@ -2239,7 +2239,7 @@ const cards = [
       "Jund"
     ],
     "price": 45.29,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/emn/93.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/emn/93.jpg?1517813031"
   },
   {
     "cardName": "Lingering Souls",
@@ -2249,7 +2249,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.7,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/12.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/12.jpg?1517813031"
   },
   {
     "cardName": "Living End",
@@ -2258,7 +2258,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 14.65,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/tsp/115.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/tsp/115.jpg?1517813031"
   },
   {
     "cardName": "Llanowar Elves",
@@ -2267,7 +2267,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.18,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/8/b/8bbcfb77-daa1-4ce5-b5f9-48d0a8edbba9.jpg?1543674886"
+    "imageSource": "https://img.scryfall.com/cards/large/front/8/b/8bbcfb77-daa1-4ce5-b5f9-48d0a8edbba9.jpg?1543674886"
   },
   {
     "cardName": "Logic Knot",
@@ -2277,7 +2277,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.31,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mma/51.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mma/51.jpg?1517813031"
   },
   {
     "cardName": "Lord of Atlantis",
@@ -2286,7 +2286,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 13.09,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/tsb/24.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/tsb/24.jpg?1517813031"
   },
   {
     "cardName": "Lyra Dawnbringer",
@@ -2295,7 +2295,7 @@ const cards = [
       "Jeskai Control"
     ],
     "price": 11.96,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/dom/26.jpg?1524790239"
+    "imageSource": "https://img.scryfall.com/cards/large/en/dom/26.jpg?1524790239"
   },
   {
     "cardName": "Maelstrom Pulse",
@@ -2304,7 +2304,7 @@ const cards = [
       "The Rock"
     ],
     "price": 4.63,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/d/3/d30ea59f-c582-4044-b639-dce6fc429b72.jpg?1545070078"
+    "imageSource": "https://img.scryfall.com/cards/large/front/d/3/d30ea59f-c582-4044-b639-dce6fc429b72.jpg?1545070078"
   },
   {
     "cardName": "Mana Confluence",
@@ -2313,7 +2313,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 8.53,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/jou/163.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/jou/163.jpg?1517813031"
   },
   {
     "cardName": "Manamorphose",
@@ -2323,7 +2323,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 18.74,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mma/191.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mma/191.jpg?1517813031"
   },
   {
     "cardName": "Mantis Rider",
@@ -2332,7 +2332,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.9,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ktk/184.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ktk/184.jpg?1517813031"
   },
   {
     "cardName": "Marsh Flats",
@@ -2342,7 +2342,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 35.96,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/239.jpg?1535416222"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/239.jpg?1535416222"
   },
   {
     "cardName": "Master of Etherium",
@@ -2351,7 +2351,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.46,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c16/92.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c16/92.jpg?1517813031"
   },
   {
     "cardName": "Master of Waves",
@@ -2360,7 +2360,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.4,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddt/1.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddt/1.jpg?1517813031"
   },
   {
     "cardName": "Master of the Pearl Trident",
@@ -2369,7 +2369,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.56,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddt/9.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddt/9.jpg?1517813031"
   },
   {
     "cardName": "Matter Reshaper",
@@ -2378,7 +2378,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.47,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ogw/6.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ogw/6.jpg?1517813031"
   },
   {
     "cardName": "Mausoleum Wanderer",
@@ -2387,7 +2387,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.37,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/emn/69.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/emn/69.jpg?1517813031"
   },
   {
     "cardName": "Meddling Mage",
@@ -2396,7 +2396,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 21.35,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/arb/8.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/arb/8.jpg?1517813031"
   },
   {
     "cardName": "Melira, Sylvok Outcast",
@@ -2405,7 +2405,7 @@ const cards = [
       "Counters Company"
     ],
     "price": 2.11,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/nph/115.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/nph/115.jpg?1517813031"
   },
   {
     "cardName": "Memnite",
@@ -2414,7 +2414,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.54,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/td2/2.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/td2/2.jpg?1517813031"
   },
   {
     "cardName": "Merfolk Trickster",
@@ -2423,7 +2423,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.11,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/dom/56.jpg?1524790555"
+    "imageSource": "https://img.scryfall.com/cards/large/en/dom/56.jpg?1524790555"
   },
   {
     "cardName": "Merrow Reejerey",
@@ -2432,7 +2432,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.31,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddt/13.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddt/13.jpg?1517813031"
   },
   {
     "cardName": "Might of Old Krosa",
@@ -2441,7 +2441,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.96,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/130.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/130.jpg?1517813031"
   },
   {
     "cardName": "Militia Bugler",
@@ -2450,7 +2450,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.22,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m19/29.jpg?1531450993"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m19/29.jpg?1531450993"
   },
   {
     "cardName": "Mind Stone",
@@ -2460,7 +2460,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.47,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c18/210.jpg?1535504843"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c18/210.jpg?1535504843"
   },
   {
     "cardName": "Mishra's Bauble",
@@ -2469,7 +2469,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.47,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/221.jpg?1530592639"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/221.jpg?1530592639"
   },
   {
     "cardName": "Mistcaller",
@@ -2478,7 +2478,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.29,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m19/62.jpg?1531452499"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m19/62.jpg?1531452499"
   },
   {
     "cardName": "Misty Rainforest",
@@ -2489,7 +2489,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 46.28,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/240.jpg?1546109249"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/240.jpg?1546109249"
   },
   {
     "cardName": "Molten Rain",
@@ -2500,7 +2500,7 @@ const cards = [
       "Living End"
     ],
     "price": 1.67,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/103.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/103.jpg?1517813031"
   },
   {
     "cardName": "Monastery Swiftspear",
@@ -2510,7 +2510,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.08,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/140.jpg?1530592262"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/140.jpg?1530592262"
   },
   {
     "cardName": "Monstrous Carabid",
@@ -2519,7 +2519,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.26,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/arb/43.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/arb/43.jpg?1517813031"
   },
   {
     "cardName": "Mountain",
@@ -2538,7 +2538,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/4/9/49ac3fd1-f732-4d96-ac93-560e4e86051e.jpg?1543675054"
+    "imageSource": "https://img.scryfall.com/cards/large/front/4/9/49ac3fd1-f732-4d96-ac93-560e4e86051e.jpg?1543675054"
   },
   {
     "cardName": "Mox Opal",
@@ -2549,7 +2549,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 90.25,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/223.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/223.jpg?1517813031"
   },
   {
     "cardName": "Mutagenic Growth",
@@ -2558,7 +2558,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.61,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/149.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/149.jpg?1517813031"
   },
   {
     "cardName": "Mutavault",
@@ -2568,7 +2568,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 8.23,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m14/228.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m14/228.jpg?1517813031"
   },
   {
     "cardName": "Myr Retriever",
@@ -2577,7 +2577,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.54,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cm2/203.jpg?1534112895"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cm2/203.jpg?1534112895"
   },
   {
     "cardName": "Narcomoeba",
@@ -2586,7 +2586,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.36,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/a/3/a3e23275-2261-4d6d-88d8-124342334391.jpg?1538878778"
+    "imageSource": "https://img.scryfall.com/cards/large/front/a/3/a3e23275-2261-4d6d-88d8-124342334391.jpg?1538878778"
   },
   {
     "cardName": "Nature's Claim",
@@ -2600,7 +2600,7 @@ const cards = [
       "Infect"
     ],
     "price": 0.27,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/177.jpg?1530592453"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/177.jpg?1530592453"
   },
   {
     "cardName": "Negate",
@@ -2615,7 +2615,7 @@ const cards = [
       "KCI"
     ],
     "price": 0.11,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bbd/123.jpg?1529062124"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bbd/123.jpg?1529062124"
   },
   {
     "cardName": "Night's Whisper",
@@ -2624,7 +2624,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.81,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ema/100.jpg?1519048458"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ema/100.jpg?1519048458"
   },
   {
     "cardName": "Nihil Spellbomb",
@@ -2633,7 +2633,7 @@ const cards = [
       "Grixis Death's Shadow"
     ],
     "price": 0.4,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/226.jpg?1521726006"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/226.jpg?1521726006"
   },
   {
     "cardName": "Nissa, Vital Force",
@@ -2642,7 +2642,7 @@ const cards = [
       "The Rock"
     ],
     "price": 4.23,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/b/b/bbaaa98a-ec40-4ff1-8762-a719cf1c475d.jpg?1543699562"
+    "imageSource": "https://img.scryfall.com/cards/large/front/b/b/bbaaa98a-ec40-4ff1-8762-a719cf1c475d.jpg?1543699562"
   },
   {
     "cardName": "Nissa, Voice of Zendikar",
@@ -2651,7 +2651,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.18,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddr/1.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddr/1.jpg?1517813031"
   },
   {
     "cardName": "Noble Hierarch",
@@ -2663,7 +2663,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 46.62,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/f/f/ff782973-e33c-4edd-bbd7-5c8dc8d59554.jpg?1545071267"
+    "imageSource": "https://img.scryfall.com/cards/large/front/f/f/ff782973-e33c-4edd-bbd7-5c8dc8d59554.jpg?1545071267"
   },
   {
     "cardName": "Nourishing Shoal",
@@ -2672,7 +2672,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 6.21,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bok/137.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bok/137.jpg?1517813031"
   },
   {
     "cardName": "Noxious Revival",
@@ -2681,7 +2681,7 @@ const cards = [
       "Grishoalbrand"
     ],
     "price": 4.24,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/nph/118.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/nph/118.jpg?1517813031"
   },
   {
     "cardName": "Oblivion Stone",
@@ -2690,7 +2690,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 5.93,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cm2/205.jpg?1534112917"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cm2/205.jpg?1534112917"
   },
   {
     "cardName": "Oboro, Palace in the Clouds",
@@ -2699,7 +2699,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 22.88,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/sok/164.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/sok/164.jpg?1517813031"
   },
   {
     "cardName": "Obstinate Baloth",
@@ -2709,7 +2709,7 @@ const cards = [
       "Titanshift"
     ],
     "price": 1.06,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/179.jpg?1530592462"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/179.jpg?1530592462"
   },
   {
     "cardName": "Opt",
@@ -2722,7 +2722,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.17,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/dom/60.jpg?1524790589"
+    "imageSource": "https://img.scryfall.com/cards/large/en/dom/60.jpg?1524790589"
   },
   {
     "cardName": "Ornithopter",
@@ -2731,7 +2731,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.16,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/d/d/ddb96645-44d2-426c-90cb-3186297a8728.jpg?1543700945"
+    "imageSource": "https://img.scryfall.com/cards/large/front/d/d/ddb96645-44d2-426c-90cb-3186297a8728.jpg?1543700945"
   },
   {
     "cardName": "Orzhov Pontiff",
@@ -2740,7 +2740,7 @@ const cards = [
       "Eldrazi and Taxes"
     ],
     "price": 5.33,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/gpt/124.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/gpt/124.jpg?1517813031"
   },
   {
     "cardName": "Overgrown Tomb",
@@ -2752,7 +2752,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 6.33,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/e/f/eff1f52c-5c43-4260-aaa0-6920846a191c.jpg?1538881237"
+    "imageSource": "https://img.scryfall.com/cards/large/front/e/f/eff1f52c-5c43-4260-aaa0-6920846a191c.jpg?1538881237"
   },
   {
     "cardName": "Pact of Negation",
@@ -2763,7 +2763,7 @@ const cards = [
       "Amulet Titan"
     ],
     "price": 9.7,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/68.jpg?1521725756"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/68.jpg?1521725756"
   },
   {
     "cardName": "Past in Flames",
@@ -2772,7 +2772,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 4.71,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/105.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/105.jpg?1517813031"
   },
   {
     "cardName": "Path to Exile",
@@ -2788,7 +2788,7 @@ const cards = [
       "Bogles"
     ],
     "price": 7.63,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/e02/3.jpg?1524753609"
+    "imageSource": "https://img.scryfall.com/cards/large/en/e02/3.jpg?1524753609"
   },
   {
     "cardName": "Peek",
@@ -2797,7 +2797,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.69,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/10e/94.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/10e/94.jpg?1517813031"
   },
   {
     "cardName": "Pendelhaven",
@@ -2806,7 +2806,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.31,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/244.jpg?1521726473"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/244.jpg?1521726473"
   },
   {
     "cardName": "Phantasmal Image",
@@ -2817,7 +2817,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 17.17,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/46.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/46.jpg?1517813031"
   },
   {
     "cardName": "Phyrexian Revoker",
@@ -2826,7 +2826,7 @@ const cards = [
       "Elves"
     ],
     "price": 1.03,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m15/225.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m15/225.jpg?1517813031"
   },
   {
     "cardName": "Pia and Kiran Nalaar",
@@ -2835,7 +2835,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.23,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddu/47.jpg?1523061080"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddu/47.jpg?1523061080"
   },
   {
     "cardName": "Pieces of the Puzzle",
@@ -2844,7 +2844,7 @@ const cards = [
       "Storm"
     ],
     "price": 0.2,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/soi/78.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/soi/78.jpg?1517813031"
   },
   {
     "cardName": "Pithing Needle",
@@ -2853,7 +2853,7 @@ const cards = [
       "Affinity"
     ],
     "price": 1.76,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/rtr/231.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/rtr/231.jpg?1517813031"
   },
   {
     "cardName": "Plaguecrafter",
@@ -2862,7 +2862,7 @@ const cards = [
       "Counters Company"
     ],
     "price": 0.72,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/8/6/8682fb87-df14-4277-aaa0-0d53d766c406.jpg?1538879173"
+    "imageSource": "https://img.scryfall.com/cards/large/front/8/6/8682fb87-df14-4277-aaa0-0d53d766c406.jpg?1538879173"
   },
   {
     "cardName": "Plains",
@@ -2878,7 +2878,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/f/e/feada93b-aabf-45d6-ac46-98b33caf9112.jpg?1543675002"
+    "imageSource": "https://img.scryfall.com/cards/large/front/f/e/feada93b-aabf-45d6-ac46-98b33caf9112.jpg?1543675002"
   },
   {
     "cardName": "Polluted Delta",
@@ -2889,7 +2889,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 17.34,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ktk/239.jpg?1535416225"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ktk/239.jpg?1535416225"
   },
   {
     "cardName": "Postmortem Lunge",
@@ -2898,7 +2898,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.53,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/nph/70.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/nph/70.jpg?1517813031"
   },
   {
     "cardName": "Primeval Titan",
@@ -2908,7 +2908,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 8.09,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/183.jpg?1530592477"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/183.jpg?1530592477"
   },
   {
     "cardName": "Prized Amalgam",
@@ -2917,7 +2917,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.31,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/soi/249.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/soi/249.jpg?1517813031"
   },
   {
     "cardName": "Pyretic Ritual",
@@ -2926,7 +2926,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.71,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m11/153.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m11/153.jpg?1517813031"
   },
   {
     "cardName": "Pyrite Spellbomb",
@@ -2935,7 +2935,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.08,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddu/60.jpg?1523061257"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddu/60.jpg?1523061257"
   },
   {
     "cardName": "Quicksilver Amulet",
@@ -2944,7 +2944,7 @@ const cards = [
       "Grishoalbrand"
     ],
     "price": 4.25,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/e02/44.jpg?1524753853"
+    "imageSource": "https://img.scryfall.com/cards/large/en/e02/44.jpg?1524753853"
   },
   {
     "cardName": "Radiant Fountain",
@@ -2953,7 +2953,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.14,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/244.jpg?1530592728"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/244.jpg?1530592728"
   },
   {
     "cardName": "Raging Ravine",
@@ -2962,7 +2962,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.98,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/7/9/79e6b8fc-6627-47ab-bfd1-7300e13debec.jpg?1545071360"
+    "imageSource": "https://img.scryfall.com/cards/large/front/7/9/79e6b8fc-6627-47ab-bfd1-7300e13debec.jpg?1545071360"
   },
   {
     "cardName": "Rancor",
@@ -2971,7 +2971,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.02,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/186.jpg?1521724730"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/186.jpg?1521724730"
   },
   {
     "cardName": "Ratchet Bomb",
@@ -2980,7 +2980,7 @@ const cards = [
       "Eldrazi Tron"
     ],
     "price": 1.32,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m14/215.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m14/215.jpg?1517813031"
   },
   {
     "cardName": "Ravenous Trap",
@@ -2989,7 +2989,7 @@ const cards = [
       "Izzet Phoenix"
     ],
     "price": 0.56,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/zen/109.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/zen/109.jpg?1517813031"
   },
   {
     "cardName": "Razorverge Thicket",
@@ -2999,7 +2999,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 7.06,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/som/228.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/som/228.jpg?1517813031"
   },
   {
     "cardName": "Reality Smasher",
@@ -3008,7 +3008,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.71,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ogw/7.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ogw/7.jpg?1517813031"
   },
   {
     "cardName": "Reclamation Sage",
@@ -3020,7 +3020,7 @@ const cards = [
       "Amulet Titan"
     ],
     "price": 0.35,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c18/159.jpg?1535504117"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c18/159.jpg?1535504117"
   },
   {
     "cardName": "Reflector Mage",
@@ -3032,7 +3032,7 @@ const cards = [
       "Bant Spirits"
     ],
     "price": 1.27,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ogw/157.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ogw/157.jpg?1517813031"
   },
   {
     "cardName": "Relic of Progenitus",
@@ -3048,7 +3048,7 @@ const cards = [
       "Amulet Titan"
     ],
     "price": 3.82,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ema/231.jpg?1519049202"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ema/231.jpg?1519049202"
   },
   {
     "cardName": "Remand",
@@ -3058,7 +3058,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 4.97,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/55.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/55.jpg?1517813031"
   },
   {
     "cardName": "Remorseful Cleric",
@@ -3067,7 +3067,7 @@ const cards = [
       "Counters Company"
     ],
     "price": 1.43,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m19/33.jpg?1531451039"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m19/33.jpg?1531451039"
   },
   {
     "cardName": "Repeal",
@@ -3076,7 +3076,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.08,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/70.jpg?1530591972"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/70.jpg?1530591972"
   },
   {
     "cardName": "Rest in Peace",
@@ -3090,7 +3090,7 @@ const cards = [
       "UW Control"
     ],
     "price": 7.11,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/32.jpg?1521724754"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/32.jpg?1521724754"
   },
   {
     "cardName": "Riders of Gavony",
@@ -3099,7 +3099,7 @@ const cards = [
       "Humans"
     ],
     "price": 0.32,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/avr/33.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/avr/33.jpg?1517813031"
   },
   {
     "cardName": "Rift Bolt",
@@ -3108,7 +3108,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.61,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/143.jpg?1530592272"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/143.jpg?1530592272"
   },
   {
     "cardName": "Risk Factor",
@@ -3117,7 +3117,7 @@ const cards = [
       "Burn"
     ],
     "price": 3.72,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/4/e/4eda89d9-9bd1-4a55-ac02-f9a0625d8e5b.jpg?1538879548"
+    "imageSource": "https://img.scryfall.com/cards/large/front/4/e/4eda89d9-9bd1-4a55-ac02-f9a0625d8e5b.jpg?1538879548"
   },
   {
     "cardName": "Ruric Thar, the Unbowed",
@@ -3126,7 +3126,7 @@ const cards = [
       "Amulet Titan"
     ],
     "price": 0.48,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/216.jpg?1521725821"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/216.jpg?1521725821"
   },
   {
     "cardName": "Sacred Foundry",
@@ -3137,7 +3137,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 6.47,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/b/7/b7b598d0-535d-477d-a33d-d6a10ff5439a.jpg?1538881252"
+    "imageSource": "https://img.scryfall.com/cards/large/front/b/7/b7b598d0-535d-477d-a33d-d6a10ff5439a.jpg?1538881252"
   },
   {
     "cardName": "Sai, Master Thopterist",
@@ -3148,7 +3148,7 @@ const cards = [
       "KCI"
     ],
     "price": 1.74,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m19/69.jpg?1531451437"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m19/69.jpg?1531451437"
   },
   {
     "cardName": "Sakura-Tribe Elder",
@@ -3157,7 +3157,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.01,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c18/160.jpg?1535504129"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c18/160.jpg?1535504129"
   },
   {
     "cardName": "Sakura-Tribe Scout",
@@ -3166,7 +3166,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.58,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/sok/144.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/sok/144.jpg?1517813031"
   },
   {
     "cardName": "Sanctum of Ugin",
@@ -3175,7 +3175,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.5,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bfz/242.jpg?1530717346"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bfz/242.jpg?1530717346"
   },
   {
     "cardName": "Scalding Tarn",
@@ -3188,7 +3188,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 70.89,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/244.jpg?1535416220"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/244.jpg?1535416220"
   },
   {
     "cardName": "Scapeshift",
@@ -3197,7 +3197,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 6.66,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m19/201.jpg?1531450987"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m19/201.jpg?1531450987"
   },
   {
     "cardName": "Scavenging Ooze",
@@ -3209,7 +3209,7 @@ const cards = [
       "Elves"
     ],
     "price": 3.61,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cm2/143.jpg?1534112185"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cm2/143.jpg?1534112185"
   },
   {
     "cardName": "Scrap Trawler",
@@ -3218,7 +3218,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.43,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/6/8/68abc75f-596f-4169-96fc-ada941ef47ed.jpg?1543701084"
+    "imageSource": "https://img.scryfall.com/cards/large/front/6/8/68abc75f-596f-4169-96fc-ada941ef47ed.jpg?1543701084"
   },
   {
     "cardName": "Sea Gate Wreckage",
@@ -3227,7 +3227,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.32,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ogw/177.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ogw/177.jpg?1517813031"
   },
   {
     "cardName": "Seachrome Coast",
@@ -3236,7 +3236,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 15.71,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/som/229.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/som/229.jpg?1517813031"
   },
   {
     "cardName": "Seal of Primordium",
@@ -3245,7 +3245,7 @@ const cards = [
       "Bogles"
     ],
     "price": 0.26,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/135.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/135.jpg?1517813031"
   },
   {
     "cardName": "Search for Azcanta",
@@ -3255,7 +3255,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 13.61,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/xln/74a.jpg?1527428520"
+    "imageSource": "https://img.scryfall.com/cards/large/en/xln/74a.jpg?1527428520"
   },
   {
     "cardName": "Search for Tomorrow",
@@ -3264,7 +3264,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.11,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/185.jpg?1530592484"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/185.jpg?1530592484"
   },
   {
     "cardName": "Searing Blaze",
@@ -3273,7 +3273,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddi/67.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddi/67.jpg?1517813031"
   },
   {
     "cardName": "Searing Blood",
@@ -3282,7 +3282,7 @@ const cards = [
       "Burn"
     ],
     "price": 0.76,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bng/111.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bng/111.jpg?1517813031"
   },
   {
     "cardName": "Selesnya Sanctuary",
@@ -3291,7 +3291,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.11,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/a/1/a1aab9d5-383e-4946-bfd9-77fd89103d59.jpg?1541002958"
+    "imageSource": "https://img.scryfall.com/cards/large/front/a/1/a1aab9d5-383e-4946-bfd9-77fd89103d59.jpg?1541002958"
   },
   {
     "cardName": "Selfless Spirit",
@@ -3300,7 +3300,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 4.19,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/emn/40.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/emn/40.jpg?1517813031"
   },
   {
     "cardName": "Serum Visions",
@@ -3312,7 +3312,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.91,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/49.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/49.jpg?1517813031"
   },
   {
     "cardName": "Settle the Wreckage",
@@ -3321,7 +3321,7 @@ const cards = [
       "UW Control"
     ],
     "price": 6.03,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/xln/34.jpg?1527427957"
+    "imageSource": "https://img.scryfall.com/cards/large/en/xln/34.jpg?1527427957"
   },
   {
     "cardName": "Shalai, Voice of Plenty",
@@ -3330,7 +3330,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.86,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/dom/35.jpg?1524790337"
+    "imageSource": "https://img.scryfall.com/cards/large/en/dom/35.jpg?1524790337"
   },
   {
     "cardName": "Shaman of the Pack",
@@ -3339,7 +3339,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.25,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ema/205.jpg?1519049051"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ema/205.jpg?1519049051"
   },
   {
     "cardName": "Shambling Vent",
@@ -3348,7 +3348,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.13,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bfz/244.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bfz/244.jpg?1517813031"
   },
   {
     "cardName": "Shatterstorm",
@@ -3357,7 +3357,7 @@ const cards = [
       "Ponza"
     ],
     "price": 1.68,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/10e/229.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/10e/229.jpg?1517813031"
   },
   {
     "cardName": "Shivan Reef",
@@ -3366,7 +3366,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.45,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddu/70.jpg?1523061384"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddu/70.jpg?1523061384"
   },
   {
     "cardName": "Shriekhorn",
@@ -3375,7 +3375,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.47,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mbs/130.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mbs/130.jpg?1517813031"
   },
   {
     "cardName": "Shriekmaw",
@@ -3384,7 +3384,7 @@ const cards = [
       "Living End"
     ],
     "price": 1.7,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cma/68.jpg?1519868787"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cma/68.jpg?1519868787"
   },
   {
     "cardName": "Siege Rhino",
@@ -3393,7 +3393,7 @@ const cards = [
       "Counters Company"
     ],
     "price": 0.42,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ktk/200.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ktk/200.jpg?1517813031"
   },
   {
     "cardName": "Sigarda, Host of Herons",
@@ -3402,7 +3402,7 @@ const cards = [
       "Counters Company"
     ],
     "price": 6.6,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/f/c/fcac0cff-efa6-4068-a69c-67ea4e7acea0.jpg?1545074181"
+    "imageSource": "https://img.scryfall.com/cards/large/front/f/c/fcac0cff-efa6-4068-a69c-67ea4e7acea0.jpg?1545074181"
   },
   {
     "cardName": "Sign in Blood",
@@ -3411,7 +3411,7 @@ const cards = [
       "Grishoalbrand"
     ],
     "price": 0.15,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cm2/77.jpg?1534111380"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cm2/77.jpg?1534111380"
   },
   {
     "cardName": "Signal Pest",
@@ -3420,7 +3420,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.63,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mbs/131.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mbs/131.jpg?1517813031"
   },
   {
     "cardName": "Silhana Ledgewalker",
@@ -3429,7 +3429,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.26,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/pca/77.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/pca/77.jpg?1517813031"
   },
   {
     "cardName": "Silvergill Adept",
@@ -3438,7 +3438,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.36,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/rix/53.jpg?1524750702"
+    "imageSource": "https://img.scryfall.com/cards/large/en/rix/53.jpg?1524750702"
   },
   {
     "cardName": "Simian Spirit Guide",
@@ -3448,7 +3448,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.27,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/148.jpg?1521727727"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/148.jpg?1521727727"
   },
   {
     "cardName": "Simic Growth Chamber",
@@ -3457,7 +3457,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.3,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c18/282.jpg?1535505875"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c18/282.jpg?1535505875"
   },
   {
     "cardName": "Sin Collector",
@@ -3466,7 +3466,7 @@ const cards = [
       "Humans"
     ],
     "price": 0.11,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/183.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/183.jpg?1517813031"
   },
   {
     "cardName": "Skullcrack",
@@ -3475,7 +3475,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.63,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/gtc/106.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/gtc/106.jpg?1517813031"
   },
   {
     "cardName": "Skyshroud Ranger",
@@ -3484,7 +3484,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.37,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/10e/297.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/10e/297.jpg?1517813031"
   },
   {
     "cardName": "Slayers' Stronghold",
@@ -3493,7 +3493,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.82,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/avr/229.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/avr/229.jpg?1517813031"
   },
   {
     "cardName": "Sleight of Hand",
@@ -3502,7 +3502,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.04,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/me4/62.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/me4/62.jpg?1517813031"
   },
   {
     "cardName": "Slippery Bogle",
@@ -3511,7 +3511,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.31,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/eve/160.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/eve/160.jpg?1517813031"
   },
   {
     "cardName": "Smash to Smithereens",
@@ -3520,7 +3520,7 @@ const cards = [
       "Burn"
     ],
     "price": 0.14,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ori/163.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ori/163.jpg?1517813031"
   },
   {
     "cardName": "Snapcaster Mage",
@@ -3532,7 +3532,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 55.15,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/7/e/7e41765e-43fe-461d-baeb-ee30d13d2d93.jpg?1545071479"
+    "imageSource": "https://img.scryfall.com/cards/large/front/7/e/7e41765e-43fe-461d-baeb-ee30d13d2d93.jpg?1545071479"
   },
   {
     "cardName": "Snow-Covered Island",
@@ -3541,7 +3541,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.66,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/me2/242.jpg?1523983799"
+    "imageSource": "https://img.scryfall.com/cards/large/en/me2/242.jpg?1523983799"
   },
   {
     "cardName": "Sorcerous Spyglass",
@@ -3550,7 +3550,7 @@ const cards = [
       "Eldrazi Tron"
     ],
     "price": 2.23,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/xln/248.jpg?1527431310"
+    "imageSource": "https://img.scryfall.com/cards/large/en/xln/248.jpg?1527431310"
   },
   {
     "cardName": "Spatial Contortion",
@@ -3560,7 +3560,7 @@ const cards = [
       "Tron"
     ],
     "price": 0.21,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ogw/8.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ogw/8.jpg?1517813031"
   },
   {
     "cardName": "Spell Pierce",
@@ -3573,7 +3573,7 @@ const cards = [
       "Amulet Titan"
     ],
     "price": 0.15,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/xln/81.jpg?1527428633"
+    "imageSource": "https://img.scryfall.com/cards/large/en/xln/81.jpg?1527428633"
   },
   {
     "cardName": "Spell Queller",
@@ -3584,7 +3584,7 @@ const cards = [
       "Jeskai Control"
     ],
     "price": 6.62,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/emn/189.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/emn/189.jpg?1517813031"
   },
   {
     "cardName": "Spell Snare",
@@ -3593,7 +3593,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.68,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bbd/132.jpg?1529062225"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bbd/132.jpg?1529062225"
   },
   {
     "cardName": "Spellskite",
@@ -3605,7 +3605,7 @@ const cards = [
       "Infect"
     ],
     "price": 6.41,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/230.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/230.jpg?1517813031"
   },
   {
     "cardName": "Spider Umbra",
@@ -3614,7 +3614,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.1,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/arc/70.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/arc/70.jpg?1517813031"
   },
   {
     "cardName": "Spine of Ish Sah",
@@ -3623,7 +3623,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.49,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cm2/220.jpg?1534113080"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cm2/220.jpg?1534113080"
   },
   {
     "cardName": "Spire of Industry",
@@ -3632,7 +3632,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.78,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/8/3/8331724d-6fab-454a-b06c-b06e499fa552.jpg?1543701225"
+    "imageSource": "https://img.scryfall.com/cards/large/front/8/3/8331724d-6fab-454a-b06c-b06e499fa552.jpg?1543701225"
   },
   {
     "cardName": "Spirebluff Canal",
@@ -3643,7 +3643,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 9.12,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/4/e/4e587ea7-0632-4789-ba75-3c410da2bb96.jpg?1543700306"
+    "imageSource": "https://img.scryfall.com/cards/large/front/4/e/4e587ea7-0632-4789-ba75-3c410da2bb96.jpg?1543700306"
   },
   {
     "cardName": "Spirit Link",
@@ -3652,7 +3652,7 @@ const cards = [
       "Bogles"
     ],
     "price": 1.4,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/10e/45.jpg?1542207800"
+    "imageSource": "https://img.scryfall.com/cards/large/en/10e/45.jpg?1542207800"
   },
   {
     "cardName": "Spirit Mantle",
@@ -3663,7 +3663,7 @@ const cards = [
       "Bogles"
     ],
     "price": 1.93,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/pca/12.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/pca/12.jpg?1517813031"
   },
   {
     "cardName": "Spreading Seas",
@@ -3672,7 +3672,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.43,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/zen/70.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/zen/70.jpg?1517813031"
   },
   {
     "cardName": "Springleaf Drum",
@@ -3681,7 +3681,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.8,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bng/162.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bng/162.jpg?1517813031"
   },
   {
     "cardName": "Stain the Mind",
@@ -3690,7 +3690,7 @@ const cards = [
       "Dredge"
     ],
     "price": 0.21,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m15/117.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m15/117.jpg?1517813031"
   },
   {
     "cardName": "Steam Vents",
@@ -3704,7 +3704,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 10.97,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/b/8/b8ebe3cf-7143-453a-b0ef-2f5bdaac3185.jpg?1538881294"
+    "imageSource": "https://img.scryfall.com/cards/large/front/b/8/b8ebe3cf-7143-453a-b0ef-2f5bdaac3185.jpg?1538881294"
   },
   {
     "cardName": "Steel Overseer",
@@ -3714,7 +3714,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 16.32,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddf/44.jpg?1530591297"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddf/44.jpg?1530591297"
   },
   {
     "cardName": "Stinkweed Imp",
@@ -3723,7 +3723,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.61,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/5/6/566be83c-14a8-42ca-b9e5-51b486dc7849.jpg?1541002932"
+    "imageSource": "https://img.scryfall.com/cards/large/front/5/6/566be83c-14a8-42ca-b9e5-51b486dc7849.jpg?1541002932"
   },
   {
     "cardName": "Stomping Ground",
@@ -3737,7 +3737,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 13.42,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/gtc/247.jpg?1535415836"
+    "imageSource": "https://img.scryfall.com/cards/large/en/gtc/247.jpg?1535415836"
   },
   {
     "cardName": "Stone Rain",
@@ -3746,7 +3746,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.19,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/9ed/221.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/9ed/221.jpg?1517813031"
   },
   {
     "cardName": "Stony Silence",
@@ -3763,7 +3763,7 @@ const cards = [
       "Counters Company"
     ],
     "price": 8.27,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/25.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/25.jpg?1517813031"
   },
   {
     "cardName": "Stormbreath Dragon",
@@ -3772,7 +3772,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.9,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ths/143.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ths/143.jpg?1517813031"
   },
   {
     "cardName": "Street Wraith",
@@ -3783,7 +3783,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.04,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/108.jpg?1521726743"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/108.jpg?1521726743"
   },
   {
     "cardName": "Stubborn Denial",
@@ -3794,7 +3794,7 @@ const cards = [
       "Grixis Death's Shadow"
     ],
     "price": 0.79,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ktk/56.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ktk/56.jpg?1517813031"
   },
   {
     "cardName": "Sulfur Falls",
@@ -3803,7 +3803,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 10.97,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/dom/247.jpg?1524792462"
+    "imageSource": "https://img.scryfall.com/cards/large/en/dom/247.jpg?1524792462"
   },
   {
     "cardName": "Summoner's Pact",
@@ -3813,7 +3813,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 5.64,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/189.jpg?1521724806"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/189.jpg?1521724806"
   },
   {
     "cardName": "Sunhome, Fortress of the Legion",
@@ -3822,7 +3822,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.68,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/9/1/9181ca1c-a2b4-4cd1-88dd-93df2dcef703.jpg?1541002848"
+    "imageSource": "https://img.scryfall.com/cards/large/front/9/1/9181ca1c-a2b4-4cd1-88dd-93df2dcef703.jpg?1541002848"
   },
   {
     "cardName": "Supreme Phantom",
@@ -3831,7 +3831,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.05,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m19/76.jpg?1531451540"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m19/76.jpg?1531451540"
   },
   {
     "cardName": "Supreme Verdict",
@@ -3840,7 +3840,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.28,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/210.jpg?1530592595"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/210.jpg?1530592595"
   },
   {
     "cardName": "Surgical Extraction",
@@ -3856,7 +3856,7 @@ const cards = [
       "Elves"
     ],
     "price": 38.95,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/99.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/99.jpg?1517813031"
   },
   {
     "cardName": "Swamp",
@@ -3871,7 +3871,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/8/b/8bc682cd-b13b-4670-913c-70542f161316.jpg?1543675036"
+    "imageSource": "https://img.scryfall.com/cards/large/front/8/b/8bc682cd-b13b-4670-913c-70542f161316.jpg?1543675036"
   },
   {
     "cardName": "Swan Song",
@@ -3880,7 +3880,7 @@ const cards = [
       "KCI"
     ],
     "price": 3.43,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c16/98.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c16/98.jpg?1517813031"
   },
   {
     "cardName": "Sylvan Scrying",
@@ -3889,7 +3889,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.25,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bfz/192.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bfz/192.jpg?1517813031"
   },
   {
     "cardName": "Tarmogoyf",
@@ -3899,7 +3899,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 48.93,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/4/2/42e56220-81c3-4440-9f97-8616d630a8ee.jpg?1545071618"
+    "imageSource": "https://img.scryfall.com/cards/large/front/4/2/42e56220-81c3-4440-9f97-8616d630a8ee.jpg?1545071618"
   },
   {
     "cardName": "Tasigur, the Golden Fang",
@@ -3908,7 +3908,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.55,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/d/7/d7b7d726-c395-4af4-aa6a-e8e0c0582a1f.jpg?1545071676"
+    "imageSource": "https://img.scryfall.com/cards/large/front/d/7/d7b7d726-c395-4af4-aa6a-e8e0c0582a1f.jpg?1545071676"
   },
   {
     "cardName": "Tectonic Edge",
@@ -3919,7 +3919,7 @@ const cards = [
       "Merfolk"
     ],
     "price": 1.52,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c14/313.jpg?1530679235"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c14/313.jpg?1530679235"
   },
   {
     "cardName": "Teferi, Hero of Dominaria",
@@ -3929,7 +3929,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 47.71,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/5/d/5d10b752-d9cb-419d-a5c4-d4ee1acb655e.jpg?1544189923"
+    "imageSource": "https://img.scryfall.com/cards/large/front/5/d/5d10b752-d9cb-419d-a5c4-d4ee1acb655e.jpg?1544189923"
   },
   {
     "cardName": "Temple Garden",
@@ -3940,7 +3940,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 4.68,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/2/b/2b9b0195-beda-403e-bc27-7ae3be9f318c.jpg?1538881306"
+    "imageSource": "https://img.scryfall.com/cards/large/front/2/b/2b9b0195-beda-403e-bc27-7ae3be9f318c.jpg?1538881306"
   },
   {
     "cardName": "Temple of Deceit",
@@ -3949,7 +3949,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ths/225.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ths/225.jpg?1517813031"
   },
   {
     "cardName": "Temple of Malice",
@@ -3960,7 +3960,7 @@ const cards = [
       "Grishoalbrand"
     ],
     "price": 3.99,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bng/164.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bng/164.jpg?1517813031"
   },
   {
     "cardName": "Temur Battle Rage",
@@ -3969,7 +3969,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.36,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/frf/116.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/frf/116.jpg?1517813031"
   },
   {
     "cardName": "Terminate",
@@ -3979,7 +3979,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.02,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c17/199.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c17/199.jpg?1517813031"
   },
   {
     "cardName": "Terminus",
@@ -3989,7 +3989,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.36,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c18/77.jpg?1535502965"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c18/77.jpg?1535502965"
   },
   {
     "cardName": "Terrarion",
@@ -3998,7 +3998,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.12,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/emn/201.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/emn/201.jpg?1517813031"
   },
   {
     "cardName": "Thalia's Lieutenant",
@@ -4007,7 +4007,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.91,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/soi/43.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/soi/43.jpg?1517813031"
   },
   {
     "cardName": "Thalia, Guardian of Thraben",
@@ -4019,7 +4019,7 @@ const cards = [
       "Bant Spirits"
     ],
     "price": 8.84,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/36.jpg?1521724900"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/36.jpg?1521724900"
   },
   {
     "cardName": "Thing in the Ice",
@@ -4028,7 +4028,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 13.87,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/soi/92a.jpg?1518206053"
+    "imageSource": "https://img.scryfall.com/cards/large/en/soi/92a.jpg?1518206053"
   },
   {
     "cardName": "Thought Scour",
@@ -4038,7 +4038,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.28,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/76.jpg?1530591998"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/76.jpg?1530591998"
   },
   {
     "cardName": "Thought-Knot Seer",
@@ -4050,7 +4050,7 @@ const cards = [
       "Tron"
     ],
     "price": 5.49,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ogw/9.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ogw/9.jpg?1517813031"
   },
   {
     "cardName": "Thoughtseize",
@@ -4065,7 +4065,7 @@ const cards = [
       "Elves"
     ],
     "price": 13.56,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ima/110.jpg?1530592140"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ima/110.jpg?1530592140"
   },
   {
     "cardName": "Thragtusk",
@@ -4074,7 +4074,7 @@ const cards = [
       "Tron"
     ],
     "price": 1.66,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/e01/75.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/e01/75.jpg?1517813031"
   },
   {
     "cardName": "Threads of Disloyalty",
@@ -4083,7 +4083,7 @@ const cards = [
       "Izzet Phoenix"
     ],
     "price": 0.22,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/e02/11.jpg?1524753658"
+    "imageSource": "https://img.scryfall.com/cards/large/en/e02/11.jpg?1524753658"
   },
   {
     "cardName": "Through the Breach",
@@ -4093,7 +4093,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 14.08,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/0/8/088dab4a-0090-4509-a851-25d916b30236.jpg?1545071761"
+    "imageSource": "https://img.scryfall.com/cards/large/front/0/8/088dab4a-0090-4509-a851-25d916b30236.jpg?1545071761"
   },
   {
     "cardName": "Thrun, the Last Troll",
@@ -4103,7 +4103,7 @@ const cards = [
       "Amulet Titan"
     ],
     "price": 10.79,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mbs/92.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mbs/92.jpg?1517813031"
   },
   {
     "cardName": "Tidehollow Sculler",
@@ -4112,7 +4112,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.19,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/md1/2.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/md1/2.jpg?1517813031"
   },
   {
     "cardName": "Timely Reinforcements",
@@ -4124,7 +4124,7 @@ const cards = [
       "Jeskai Control"
     ],
     "price": 1.68,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/m12/40.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/m12/40.jpg?1517813031"
   },
   {
     "cardName": "Tireless Tracker",
@@ -4137,7 +4137,7 @@ const cards = [
       "Amulet Titan"
     ],
     "price": 8.24,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/soi/233.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/soi/233.jpg?1517813031"
   },
   {
     "cardName": "Tolaria West",
@@ -4146,7 +4146,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 8.17,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/fut/173.jpg?1530718954"
+    "imageSource": "https://img.scryfall.com/cards/large/en/fut/173.jpg?1530718954"
   },
   {
     "cardName": "Tormod's Crypt",
@@ -4157,7 +4157,7 @@ const cards = [
       "Amulet Titan"
     ],
     "price": 0.45,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c14/278.jpg?1530678967"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c14/278.jpg?1530678967"
   },
   {
     "cardName": "Torpor Orb",
@@ -4166,7 +4166,7 @@ const cards = [
       "Bogles"
     ],
     "price": 3.43,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/nph/162.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/nph/162.jpg?1517813031"
   },
   {
     "cardName": "Treetop Village",
@@ -4175,7 +4175,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.2,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddu/30.jpg?1523060876"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddu/30.jpg?1523060876"
   },
   {
     "cardName": "Trinisphere",
@@ -4184,7 +4184,7 @@ const cards = [
       "Ponza"
     ],
     "price": 25.77,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/dst/154.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/dst/154.jpg?1517813031"
   },
   {
     "cardName": "Trinket Mage",
@@ -4193,7 +4193,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.18,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ddu/41.jpg?1523060999"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ddu/41.jpg?1523060999"
   },
   {
     "cardName": "Twilight Mire",
@@ -4202,7 +4202,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 6.73,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/248.jpg?1521726575"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/248.jpg?1521726575"
   },
   {
     "cardName": "Ugin, the Spirit Dragon",
@@ -4211,7 +4211,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 47.54,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/frf/1.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/frf/1.jpg?1517813031"
   },
   {
     "cardName": "Ulamog, the Ceaseless Hunger",
@@ -4220,7 +4220,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 19.33,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bfz/15.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bfz/15.jpg?1517813031"
   },
   {
     "cardName": "Unclaimed Territory",
@@ -4229,7 +4229,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.39,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/xln/258.jpg?1527431498"
+    "imageSource": "https://img.scryfall.com/cards/large/en/xln/258.jpg?1527431498"
   },
   {
     "cardName": "Unified Will",
@@ -4238,7 +4238,7 @@ const cards = [
       "Bant Spirits"
     ],
     "price": 2.29,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/roe/92.jpg?1530592358"
+    "imageSource": "https://img.scryfall.com/cards/large/en/roe/92.jpg?1530592358"
   },
   {
     "cardName": "Unsubstantiate",
@@ -4247,7 +4247,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.24,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/emn/79.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/emn/79.jpg?1517813031"
   },
   {
     "cardName": "Urza's Mine",
@@ -4257,7 +4257,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.87,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/me4/257a.jpg?1544631972"
+    "imageSource": "https://img.scryfall.com/cards/large/en/me4/257a.jpg?1544631972"
   },
   {
     "cardName": "Urza's Power Plant",
@@ -4267,7 +4267,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.01,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/me4/258a.jpg?1544632161"
+    "imageSource": "https://img.scryfall.com/cards/large/en/me4/258a.jpg?1544632161"
   },
   {
     "cardName": "Urza's Tower",
@@ -4277,7 +4277,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.93,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/me4/259a.jpg?1544632409"
+    "imageSource": "https://img.scryfall.com/cards/large/en/me4/259a.jpg?1544632409"
   },
   {
     "cardName": "Utopia Sprawl",
@@ -4286,7 +4286,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.09,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/192.jpg?1521724928"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/192.jpg?1521724928"
   },
   {
     "cardName": "Valakut, the Molten Pinnacle",
@@ -4295,7 +4295,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 14.02,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/zen/228.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/zen/228.jpg?1517813031"
   },
   {
     "cardName": "Vault Skirge",
@@ -4304,7 +4304,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.42,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/nph/76.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/nph/76.jpg?1517813031"
   },
   {
     "cardName": "Vendilion Clique",
@@ -4316,7 +4316,7 @@ const cards = [
       "Jeskai Control"
     ],
     "price": 17.56,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/a25/76.jpg?1521725917"
+    "imageSource": "https://img.scryfall.com/cards/large/en/a25/76.jpg?1521725917"
   },
   {
     "cardName": "Venser, Shaper Savant",
@@ -4325,7 +4325,7 @@ const cards = [
       "Merfolk"
     ],
     "price": 4.42,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/55.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/55.jpg?1517813031"
   },
   {
     "cardName": "Verdant Catacombs",
@@ -4339,7 +4339,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 55.16,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm3/249.jpg?1535416219"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm3/249.jpg?1535416219"
   },
   {
     "cardName": "Vesuva",
@@ -4348,7 +4348,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 20.77,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/tsp/281.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/tsp/281.jpg?1517813031"
   },
   {
     "cardName": "Vines of Vastwood",
@@ -4357,7 +4357,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.01,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/mm2/168.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/mm2/168.jpg?1517813031"
   },
   {
     "cardName": "Violent Outburst",
@@ -4366,7 +4366,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.55,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/arb/63.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/arb/63.jpg?1517813031"
   },
   {
     "cardName": "Viridian Corrupter",
@@ -4375,7 +4375,7 @@ const cards = [
       "Infect"
     ],
     "price": 0.27,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/td2/56.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/td2/56.jpg?1517813031"
   },
   {
     "cardName": "Viscera Seer",
@@ -4384,7 +4384,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.09,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/c13/99.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/c13/99.jpg?1517813031"
   },
   {
     "cardName": "Vizier of Remedies",
@@ -4393,7 +4393,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.25,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/3/6/36ab760e-93e0-4dbc-aaa1-02316f62ed3f.jpg?1543674853"
+    "imageSource": "https://img.scryfall.com/cards/large/front/3/6/36ab760e-93e0-4dbc-aaa1-02316f62ed3f.jpg?1543674853"
   },
   {
     "cardName": "Walking Ballista",
@@ -4406,7 +4406,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 13.69,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/3/2/329a8738-3e17-403a-857a-0ba529ce8cd1.jpg?1543701177"
+    "imageSource": "https://img.scryfall.com/cards/large/front/3/2/329a8738-3e17-403a-857a-0ba529ce8cd1.jpg?1543701177"
   },
   {
     "cardName": "Warping Wail",
@@ -4415,7 +4415,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.38,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ogw/12.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ogw/12.jpg?1517813031"
   },
   {
     "cardName": "Wasteland Strangler",
@@ -4424,7 +4424,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 0.26,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/bfz/102.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/bfz/102.jpg?1517813031"
   },
   {
     "cardName": "Wastes",
@@ -4433,7 +4433,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.96,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ogw/183a.jpg?1530757398"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ogw/183a.jpg?1530757398"
   },
   {
     "cardName": "Watery Grave",
@@ -4442,7 +4442,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 7.99,
-    "imagesSource": "https://img.scryfall.com/cards/large/front/7/d/7d4595f2-9297-40dc-b2dd-7144bbb401f7.jpg?1538881314"
+    "imageSource": "https://img.scryfall.com/cards/large/front/7/d/7d4595f2-9297-40dc-b2dd-7144bbb401f7.jpg?1538881314"
   },
   {
     "cardName": "Westvale Abbey",
@@ -4451,7 +4451,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 3.8,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/soi/281a.jpg?1518206333"
+    "imageSource": "https://img.scryfall.com/cards/large/en/soi/281a.jpg?1518206333"
   },
   {
     "cardName": "Wild Defiance",
@@ -4460,7 +4460,7 @@ const cards = [
       "Infect"
     ],
     "price": 0.66,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/avr/203.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/avr/203.jpg?1517813031"
   },
   {
     "cardName": "Windswept Heath",
@@ -4474,7 +4474,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 12.59,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ktk/248.jpg?1535416224"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ktk/248.jpg?1535416224"
   },
   {
     "cardName": "Wipe Away",
@@ -4483,7 +4483,7 @@ const cards = [
       "Storm"
     ],
     "price": 2.27,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/tsp/94.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/tsp/94.jpg?1517813031"
   },
   {
     "cardName": "Wooded Foothills",
@@ -4496,7 +4496,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 21.98,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ktk/249.jpg?1546109282"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ktk/249.jpg?1546109282"
   },
   {
     "cardName": "World Breaker",
@@ -4505,7 +4505,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 2.85,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ogw/126.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ogw/126.jpg?1517813031"
   },
   {
     "cardName": "Worldspine Wurm",
@@ -4514,7 +4514,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 14.38,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/rtr/140.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/rtr/140.jpg?1517813031"
   },
   {
     "cardName": "Worship",
@@ -4523,7 +4523,7 @@ const cards = [
       "Bant Spirits"
     ],
     "price": 7.99,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/9ed/55.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/9ed/55.jpg?1517813031"
   },
   {
     "cardName": "Wurmcoil Engine",
@@ -4534,7 +4534,7 @@ const cards = [
       "Eldrazi Tron"
     ],
     "price": 18.3,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/cm2/231.jpg?1534113193"
+    "imageSource": "https://img.scryfall.com/cards/large/en/cm2/231.jpg?1534113193"
   },
   {
     "cardName": "Yavimaya Coast",
@@ -4543,7 +4543,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.14,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/ori/252.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/ori/252.jpg?1517813031"
   },
   {
     "cardName": "Young Pyromancer",
@@ -4552,7 +4552,7 @@ const cards = [
     ],
     "sideboards": [],
     "price": 1.35,
-    "imagesSource": "https://img.scryfall.com/cards/large/en/dds/20.jpg?1517813031"
+    "imageSource": "https://img.scryfall.com/cards/large/en/dds/20.jpg?1517813031"
   }
 ]
 
