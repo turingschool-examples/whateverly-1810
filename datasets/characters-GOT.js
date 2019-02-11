@@ -18,7 +18,7 @@ const characters = [
   "gender": "female",
   "alive": true,
   "bornAC": 284,
-  "house": "House Targaryen of King's Landing",
+  "house": [ "House Targaryen of King's Landing"],
   "tvSeasons": [
     "Season 1",
     "Season 2",
@@ -50,7 +50,7 @@ const characters = [
   "gender": "female",
   "alive": true,
   "bornAC": 289,
-  "house": "House Stark of Winterfell",
+  "house": ["House Stark of Winterfell"],
   "tvSeasons": [
     "Season 1",
     "Season 2",
@@ -82,7 +82,7 @@ const characters = [
   "gender": "female",
   "alive": true,
   "bornAC": 290,
-  "house": "House Mormont of Bear Island",
+  "house": ["House Mormont of Bear Island"],
   "tvSeasons": ["Season 6"]
 },
 {
@@ -90,7 +90,7 @@ const characters = [
   "gender": "female",
   "alive": true,
   "bornAC": 283,
-  "house":"House Reed of Greywater Watch",
+  "house": ["House Reed of Greywater Watch"],
   "tvSeasons": [
     "Season 3",
     "Season 4",
@@ -102,7 +102,7 @@ const characters = [
   "gender": "female",
   "alive": false,
   "bornAC": 228,
-  "house": "House Tyrell of Highgarden",
+  "house": ["House Tyrell of Highgarden"],
   "tvSeasons":  [
     "Season 3",
     "Season 4",
@@ -139,7 +139,7 @@ const characters = [
   "gender": "male",
   "alive": true,
   "bornAC": 283,
-  "house":  "House Stark of Winterfell",
+  "house":  ["House Stark of Winterfell"],
   "tvSeasons": [
     "Season 1",
     "Season 2",
@@ -155,7 +155,7 @@ const characters = [
   "gender": "male",
   "alive": true,
   "bornAC": 273,
-  "house": "House Lannister of Casterly Rock",
+  "house": ["House Lannister of Casterly Rock"],
   "tvSeasons": [
     "Season 1",
     "Season 2",
@@ -171,7 +171,7 @@ const characters = [
   "gender": "male",
   "alive": true,
   "bornAC": 278,
-  "house":"House Greyjoy of Pyke",
+  "house": ["House Greyjoy of Pyke"],
   "tvSeasons": [
     "Season 1",
     "Season 2",
@@ -187,7 +187,7 @@ const characters = [
   "gender": "male",
   "alive": true,
   "bornAC": 270,
-  "house": "House Clegane",
+  "house": ["House Clegane"],
   "tvSeasons": [
     "Season 1",
     "Season 2",
@@ -203,7 +203,7 @@ const characters = [
   "gender": "male",
   "alive": false,
   "bornAC": 257,
-  "house": "House Nymeros Martell of Sunspear",
+  "house": ["House Nymeros Martell of Sunspear"],
   "tvSeasons": ["Season 4"]
 },
 {
@@ -211,7 +211,7 @@ const characters = [
   "gender": "male",
   "alive": true,
   "bornAC": 254,
-  "house":"House Mormont of Bear Island",
+  "house": ["House Mormont of Bear Island"],
   "tvSeasons": [
     "Season 1",
     "Season 2",
@@ -227,7 +227,7 @@ const characters = [
   "gender": "male",
   "alive": false,
   "bornAC": 217,
-  "house": "House Arryn of the Eyrie",
+  "house": ["House Arryn of the Eyrie"],
   "tvSeasons": ["Season 1"]
 },
 {
@@ -235,7 +235,7 @@ const characters = [
   "gender": "male",
   "alive": false,
   "bornAC": 242,
-  "house": "House Tully of Riverrun",
+  "house": ["House Tully of Riverrun"],
   "tvSeasons": [
     "Season 3",
     "Season 4",
@@ -260,7 +260,7 @@ const characters = [
   "gender": "male",
   "alive": true,
   "bornAC": 260,
-  "house": "House Seaworth of Cape Wrath",
+  "house": ["House Seaworth of Cape Wrath"],
   "tvSeasons": [
     "Season 2",
     "Season 3",
@@ -275,7 +275,7 @@ const characters = [
   "gender": "male",
   "alive": true,
   "bornAC": 283,
-  "house": "House Tarly of Horn Hill",
+  "house": ["House Tarly of Horn Hill"],
   "tvSeasons": [
     "Season 1",
     "Season 2",
@@ -291,7 +291,7 @@ const characters = [
   "gender": "male",
   "alive": false,
   "bornAC": 268,
-  "house": "House Baelish of Harrenhal",
+  "house": ["House Baelish of Harrenhal"],
   "tvSeasons": [
     "Season 1",
     "Season 2",
