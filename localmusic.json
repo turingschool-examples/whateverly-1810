@@ -5,8 +5,7 @@
 //Eventually, would be cool to get stage workers connected as well
 
 //venues
-let venues =
-[
+let venues = [
   {
     "metro area": "Denver",
     "loacal venues": [
@@ -398,8 +397,7 @@ let venues =
 ] 
 
 //template for local bands
-let bands = 
-[  
+let bands = [  
   {
     "metro area": "Denver",
     "bands": [
@@ -733,7 +731,7 @@ let bands =
             "instruments": [
               "trumpet"
             ]
-          },
+          }
         ],
         "year formed": "1997",
         "genre description": [
