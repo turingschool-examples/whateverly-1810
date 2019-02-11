@@ -567,7 +567,7 @@ const Deities = [
   }
 ]
 
-const heroes = [
+const Heroes = [
   {
     "name": "Heracles",
     "gender": "male",
@@ -794,3 +794,7 @@ const heroes = [
     "funFact": "After the Trojan War, this hero fled to Italy and fathered the founders of Rome."
   }
 ]
+
+module.exports =  {
+  Deities, Heroes
+}
