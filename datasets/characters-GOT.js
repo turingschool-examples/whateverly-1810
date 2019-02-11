@@ -4,7 +4,7 @@ const characters = [
   "gender": "female",
   "alive": false,
   "bornAC": 283,
-  "house": "House Tyrell of Highgarden",
+  "house": [ "House Tyrell of Highgarden", "House Baratheon of Storm's End"],
   "tvSeasons": [
     "Season 2",
     "Season 3",
@@ -34,7 +34,7 @@ const characters = [
   "gender": "female",
   "alive": true,
   "bornAC": 286,
-  "house":"House Stark of Winterfell",
+  "house":[ "House Stark of Winterfell", "House Baratheon of Storm's End"],
   "tvSeasons": [
     "Season 1",
     "Season 2",
@@ -66,7 +66,7 @@ const characters = [
   "gender": "female",
   "alive": true,
   "bornAC": 266,
-  "house": "House Lannister of Casterly Rock",
+  "house": [ "House Lannister of Casterly Rock", "House Baratheon of Storm's End"],
   "tvSeasons": [
     "Season 1",
     "Season 2",
@@ -114,7 +114,7 @@ const characters = [
   "gender": "female",
   "alive": false,
   "bornAC": 290,
-  "house":"House Baratheon of Storm's End",
+  "house":[ "House Baratheon of Storm's End", "House Lannister of Casterly Rock"],
   "tvSeasons":  [
     "Season 1",
     "Season 2",
@@ -127,7 +127,7 @@ const characters = [
   "gender": "female",
   "alive": false,
   "bornAC": 264,
-  "house": "House Stark of Winterfell",
+  "house": [ "House Stark of Winterfell", "House Tully of Riverrun"],
   "tvSeasons": [
     "Season 1",
     "Season 2",
@@ -247,7 +247,7 @@ const characters = [
   "gender": "male",
   "alive": false,
   "bornAC": 286,
-  "house": "House Baratheon of Storm's End",
+  "house": [ "House Baratheon of Storm's End", "House Lannister of Casterly Rock"], 
   "tvSeasons": [
     "Season 1",
     "Season 2",
