@@ -1,0 +1,16 @@
+{
+  "resources": [
+    {
+      "name": "Reel Rundown",
+      "used for": "genres",
+      "link": "https://reelrundown.com/animation/Anime-Genre-List",
+      "updated": "January 30, 2018",
+      "author": "Cheeky Kid"
+    },
+    {
+      "name": "My Anime List",
+      "used for": "Top Anime Info",
+      "link": "https://myanimelist.net/topanime.php"
+    }
+  ]
+}
