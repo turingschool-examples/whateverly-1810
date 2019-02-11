@@ -5,7 +5,7 @@
 //Eventually, would be cool to get stage workers connected as well
 
 //venues
-
+let venues =
 [
   {
     "metro area": "Denver",
@@ -239,6 +239,49 @@
         "contact email": "tony@larimerlounge.com",
         "website": "https://www.larimerlounge.com/",
         "phone-number": "303-296-1003"
+      },
+      {
+        "name": "Bluebird Theater",
+        "address": "3317 E Colfax Ave",
+        "show types": [
+          "indie",
+          "local",
+          "rock"
+        ],
+        "capacity": 550,
+        "contact email": "unlisted",
+        "website": "https://www.bluebirdtheater.net/",
+        "phone-number": "303-377-1666"
+      },
+      {
+        "name": "Herman’s Hideaway",
+        "address": "1578 S Broadway",
+        "show types": [
+          "local",
+          "rock"
+        ],
+        "capacity": 500,
+        "contact email": "booking@hermanshideaway.com",
+        "website": "http://www.hermanshideaway.com/",
+        "phone-number": "303-777-5840"
+      },
+      {
+        "name": "Herb’s Hideout",
+        "address": "2057 Larimer St",
+        "show types": "jazz",
+        "capacity": "unlisted",
+        "contact email": "INFO@HERBSBAR.COM",
+        "website": "http://www.herbsbar.com/",
+        "phone-number": "-303-299-9555"
+      },
+      {
+        "name": "El Chapultepec",
+        "address": "1962 Market St",
+        "show types": "jazz",
+        "capacity": "unlisted",
+        "contact email": "thepec@hotmail.com ",
+        "website": "http://www.thepeclodo.com/",
+        "phone-number": "303-295-9126"
       }
     ],
     "mid-size venues": [
@@ -247,7 +290,7 @@
         "address": "1621 Glenarm Pl, Denver, CO 80202",
         "show types": [
           "concerts",
-          "theater"
+          "theater",
           "speakers",
           "movies",
           "dance",
@@ -257,6 +300,31 @@
         "contact email": "cgoddard@pepsicenter.com",
         "website": "https://www.paramountdenver.com/",
         "phone-number": "303-623-0106"
+      },
+      {
+        "name": "Ogden Theatre",
+        "address": "935 E Colfax Ave, Denver, CO 80218",
+        "show types": [
+          "metal",
+          "hip-hop",
+          "dj"
+        ],
+        "capacity": 1600,
+        "contact email": "unlisted",
+        "website": "https://www.ogdentheatre.com/",
+        "phone-number": "303-832-1874"
+      },
+      {
+        "name": "Fillmore Auditorium",
+        "address": "1510 Clarkson St",
+        "show types": [
+          "hip-hop",
+          "rock"
+        ],
+        "capacity": 1315,
+        "contact email": "unlisted",
+        "website": "http://www.fillmoreauditorium.org/",
+        "phone-number": "303-837-1482"
       }
     ],
     "large venues": [
@@ -317,8 +385,10 @@
       {
         "name": "The Fox Theatre",
         "address": "1135 13th St",
-        "show types": "",
-        "capacity": ,
+        "show types": [
+          "national acts"
+        ],
+        "capacity": 4665,
         "contact email": "",
         "website": "foxtheatre.com",
         "phone-number": "720-645-2467"
@@ -328,12 +398,10 @@
 ] 
 
 //template for local bands
-
+let bands = 
 [  
   {
     "metro area": "Denver",
-    "venues": [
-    ],
     "bands": [
       {
         "name": "So What Brothers",
@@ -694,4 +762,9 @@
       }
     ]
   }
-]           
+]
+
+module.exports = {
+  bands,
+  venues
+}           
