@@ -791,7 +791,7 @@ const Heroes = [
     "born": "Iolcos",
     "adventures": ["Argonauts"],
     "symbols": ["Golden Fleece"],
-    "funFact": "After the Trojan War, this hero fled to Italy and fathered the founders of Rome."
+    "funFact": "This hero was married to a sorceress who slew their children in a frenzy."
   }
 ]
 
