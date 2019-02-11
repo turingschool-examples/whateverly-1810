@@ -1,0 +1,697 @@
+//Area venues and local bands
+//I have many more starts of data points, but this is where I am at for now
+//Pretty time consuming- data is spread out
+//Quick app idea would be to better connect local musicians to venues and vice versa
+//Eventually, would be cool to get stage workers connected as well
+
+//venues
+
+[
+  {
+    "metro area": "Denver",
+    "loacal venues": [
+      {
+        "name": "Black Box",
+        "address": "314 E 13th Ave Denver, CO 80203",
+        "show types": [
+          "dj",
+          "dance",
+          "eclectic"
+        ],
+        "capacity": 300,
+        "contact email": "",
+        "website": "https://www.blackboxdenver.co/",
+        "phone-number": "303-831-6207"
+      },
+      {
+        "name": "Cervantes' Masterpiece Ballroom",
+        "address": "2635 Welton Street, Denver, CO 80205",
+        "show types": [
+          "hip-hop",
+          "indie",
+          "eclectic"
+        ],
+        "capacity": 900,
+        "contact email": "duncan@cervantesmasterpiece.com",
+        "website": "https://www.cervantesmasterpiece.com/",
+        "phone-number": "303-297-1772"
+      },
+      {
+        "name": "hi-dive",
+        "address": "7 South Broadway, Denver, CO 80209",
+        "show types": [
+          "indie",
+          "dance",
+          "eclectic"
+        ],
+        "capacity": 285,
+        "contact email": "curt@hi-dive.com",
+        "website": "https://www.hi-dive.com/",
+        "phone-number": "303-733-0230"
+      },
+      {
+        "name": "Lion's Lair",
+        "address": "2022 East Colfax, Denver, CO 80206 ",
+        "show types": [
+          "punk",
+          "indie"
+        ],
+        "capacity": 100,
+        "contact email": "lionslairdenver@gmail.com",
+        "website": "http://lionslairco.com/",
+        "phone-number": "303-320-9200"
+      },
+      {
+        "name": "The Marquis Theater",
+        "address": "2009 Larimer Street, Denver, CO 80205",
+        "show types": [
+          "indie",
+          "hip-hop",
+          "eclectic"
+        ],
+        "capacity": 450,
+        "contact email": "",
+        "website": "http://www.themarquistheater.com/",
+        "phone-number": "303-487-0111"
+      },
+      {
+        "name": "Summit Music Hall",
+        "address": "1902 Blake St Denver, CO 80202",
+        "show types": [
+          "indie",
+          "hip-hop",
+          "eclectic"
+        ],
+        "capacity": 1100,
+        "contact email": "",
+        "website": "http://www.summitdenver.com/",
+        "phone-number": "303-487-0111 "
+      },
+      {
+        "name": "Mercury Cafe",
+        "address": "2199 California Street, Denver, CO 80205",
+        "show types": [
+          "indie",
+          "poetry",
+          "dance"
+        ],
+        "capacity": 400,
+        "contact email": "contact@mercurycafe.com",
+        "website": "http://mercurycafe.com/",
+        "phone-number": "303-294-9258"
+      },
+      {
+        "name": "Mutiny Information Cafe",
+        "address": "2 South Broadway, Denver, CO 80209",
+        "show types": [
+          "open-mic",
+          "local",
+          "indie",
+          "punk",
+          "poetry"
+        ],
+        "capacity": "unlisted",
+        "contact email": "Info@MutinyInfoCafe.com",
+        "website": "https://mutinyinfocafe.com/",
+        "phone-number": "303-778-7579"
+      },
+      {
+        "name": "Ophelia's Electric Soap Box",
+        "address": "1215 20th Street, Denver, CO 80202",
+        "show types": [
+          "jazz",
+          "indie",
+          "eclectic"
+        ],
+        "capacity": "unlisted",
+        "contact email": "booking@opheliasdenver.com",
+        "website": "https://www.opheliasdenver.com/",
+        "phone-number": "303-993-8023"
+      },
+      {
+        "name": "Oriental Theater",
+        "address": "4335 West 44th Avenue, Denver, CO 80212",
+        "show types": [
+          "film",
+          "metal",
+          "national acts"
+        ],
+        "capacity": 700,
+        "contact email": "booking@theorientaltheater.com",
+        "website": "https://theorientaltheater.com/",
+        "phone-number": "720-420-0030"
+      },
+      {
+        "name": "Skylark Lounge",
+        "address": "140 South Broadway, Denver, CO 80209",
+        "show types": [
+          "indie",
+          "local",
+          "eclectic"
+        ],
+        "capacity": "unlisted",
+        "contact email": "skylarkloungedenver@gmail.com",
+        "website": "https://www.skylarklounge.com/",
+        "phone-number": "303-722-7844"
+      },
+      {
+        "name": "Syntax Physic Opera",
+        "address": "554 South Broadway, Denver, CO 80209",
+        "show types": [
+          "open-mic",
+          "local",
+          "songwriter",
+          "indie"
+        ],
+        "capacity": 100,
+        "contact email": "booking@physicopera.com",
+        "website": "http://physicopera.com/",
+        "phone-number": "720-456-7041"
+      },
+      {
+        "name": "3 Kings Tavern",
+        "address": "60 South Broadway, Denver, CO 80209",
+        "show types": [
+          "metal",
+          "hardcore",
+          "punk"
+        ],
+        "capacity": 450,
+        "contact email": "BOOKING.3KINGS@GMAIL.COM",
+        "website": "https://www.3kingstavern.com/",
+        "phone-number": "303.777.7352"
+      },
+      {
+        "name": "Dazzle Jazz",
+        "address": "1512 Curtis St. Denver, CO 80202",
+        "show types": "jazz",
+        "capacity": 225,
+        "contact email": "info@dazzledenver.com",
+        "website": "https://dazzledenver.com/",
+        "phone-number": "303-839-5100"
+      },
+      {
+        "name": "Lost Lake Lounge",
+        "address": "3602 E Colfax Ave, Denver, CO 80206",
+        "show types": [
+          "local",
+          "indie"
+        ],
+        "capacity": "unlisted",
+        "contact email": "tony@larimerlounge.com",
+        "website": "https://www.lost-lake.com/",
+        "phone-number": "303-296-1003"
+      },
+      {
+        "name": "Globe Hall",
+        "address": "4483 Logan Street",
+        "show types": [
+          "indie",
+          "local"
+        ],
+        "capacity": 250,
+        "contact email": "tony@larimerlounge.com",
+        "website": "http://www.globehall.com/",
+        "phone-number": "303.296.1003 "
+      },
+      {
+        "name": "Walnut Room",
+        "address": "3131 Walnut Street, Denver, CO 80205",
+        "show types": [
+          "local",
+          "indie",
+          "songwriter"
+        ],
+        "capacity": 180,
+        "contact email": "booking@thewalnutroom.com",
+        "website": "https://www.thewalnutroom.com/",
+        "phone-number": "303-295-1868"
+      },
+      {
+        "name": "Larimer Lounge",
+        "address": "2721 Larimer Street, Denver, CO 80205",
+        "show types": [
+          "indie",
+          "local",
+          "metal"
+        ],
+        "capacity": 250,
+        "contact email": "tony@larimerlounge.com",
+        "website": "https://www.larimerlounge.com/",
+        "phone-number": "303-296-1003"
+      }
+    ],
+    "mid-size venues": [
+      {
+        "name": "Paramount Theater",
+        "address": "1621 Glenarm Pl, Denver, CO 80202",
+        "show types": [
+          "concerts",
+          "theater"
+          "speakers",
+          "movies",
+          "dance",
+          "special events"
+        ],
+        "capacity": 2807,
+        "contact email": "cgoddard@pepsicenter.com",
+        "website": "https://www.paramountdenver.com/",
+        "phone-number": "303-623-0106"
+      }
+    ],
+    "large venues": [
+      {
+        "name": "Pepsi Center",
+        "address": "1000 Chopper cir, Denver, CO, 80204",
+        "show types": [
+          "large concerts",
+          "conventions",
+          "pro-sports"
+        ],
+        "capacity": 18007,
+        "contact email": "GuestRelations@PepsiCenter.com",
+        "website": "https://www.pepsicenter.com/",
+        "phone-number": "303-405-1111"
+      },
+      {
+        "name": "Fiddler's Green",
+        "address": "6350 Greenwood Plaza Blvd, Greenwood Village, CO 80111",
+        "show types": [
+          "large concerts",
+          "festivals"
+        ],
+        "capacity": 18000,
+        "contact email": "samerman@aegworldwide.com",
+        "website": "https://www.fiddlersgreenamp.com/",
+        "phone-number": "303-220-7000"
+      },
+      {
+        "name": "Red Rocks Ampitheatre",
+        "address": "18300 W Alameda Pkwy, Morrison, CO 80465",
+        "show types": [
+          "large concerts",
+          "community events"
+        ],
+        "capacity": 9525,
+        "contact email": "Jeannette.Murrietta@denvergov.org",
+        "website": "https://www.redrocksonline.com/",
+        "phone-number": "720-865-2484"
+      },
+      {
+        "name": "Hudson Garden's & Event Center",
+        "address": "6115 South Santa Fe Drive Littleton, CO 80120",
+        "show types": [
+          "large concerts",
+          "nostalgia"
+        ],
+        "capacity": 3250,
+        "contact email": "303-797-8565",
+        "website": "http://www.hudsongardens.org/concerts-events",
+        "phone-number": "303-797-8565"
+      }
+    ]    
+  },
+  {
+    "metro area": "Boulder",
+    "local venues": [
+      {
+        "name": "The Fox Theatre",
+        "address": "1135 13th St",
+        "show types": "",
+        "capacity": ,
+        "contact email": "",
+        "website": "foxtheatre.com",
+        "phone-number": "720-645-2467"
+      }
+    ]
+  }
+] 
+
+//template for local bands
+
+[  
+  {
+    "metro area": "Denver",
+    "venues": [
+    ],
+    "bands": [
+      {
+        "name": "So What Brothers",
+        "members":[
+          {
+          "name": "DavidRon Valdez",
+          "instruments": [
+            "vocal",
+            "keyboard"
+            ]
+          },
+          { 
+          "name": "Annie Lincoln",
+          "instruments": [
+            "vocal"
+            ]
+          },
+          {
+          "name": "Jonathan Hutchins",
+          "instruments": [
+            "guitar",
+            "vocal"
+            ]
+          },
+          {
+          "name": "Todd Shafer",
+          "instruments": [
+            "guitar",
+            "keyboard"
+            ]
+          },
+          {
+          "name": "Bert Brandi",
+          "instruments": [
+            "drums"
+            ]
+          },
+          {
+          "name": "Brian Pavlik",
+          "instruments": [
+            "bass"
+            ]
+          }
+        ],
+        "year formed": "",
+        "genre description": [
+          "covers"
+        ],
+        "currently active": true,
+        "for-hire": true,
+        "desired gig types": [
+          "corporate",
+          "private-event",
+          "community event",
+          "local bars",
+          "weddings"
+        ],
+        "popular songs": [
+          "set list: http://www.sowhatbrothers.com/set_list.php"
+        ],
+        "website": [
+          "http://www.sowhatbrothers.com/",
+          "https://www.facebook.com/sowhatbrothers/"
+          ],
+        "email": "",
+        "phone-number": [
+          "720-633-0732",
+          "303-986-5458"
+        ]
+      },
+      {
+        "name": "Rubedo",
+        "members": [
+          {
+            "name": "Kyle Gray",
+            "instruments": [
+              "vocal",
+              "ukelele",
+              "synth"
+            ]
+          },
+          {
+            "name": "Alex Trujillo",
+            "instruments": [
+              "bass",
+              "guitar"
+            ]
+          },
+          {
+            "name": "Gregg Ziemba",
+            "instruments": [
+              "drums",
+              "vocals"
+            ]
+          }
+        ],
+        "year formed": 2010,
+        "genre description": [
+          "synth-rock",
+          "denver-rock",
+          "psychadelic-rock"
+        ],
+        "currently active": true,
+        "for-hire": true,
+        "desired gig types": [
+          "underground",
+          "theatre",
+          "DIY venue",
+          "bar"
+        ],
+        "popular songs": [
+          "My Oh My",
+          "Sungazer"
+        ],
+        "website": [
+          "https://rubedo.bandcamp.com/",
+          "https://www.rubedomusic.com/",
+          "https://www.facebook.com/rubedomusic",
+          "https://twitter.com/rubedomusic",
+          "https://www.instagram.com/rubedomusic/",
+          "https://www.youtube.com/user/rubedomusic"
+        ],
+        "email": "rubedomusic@live.com",
+        "phone-number": ""
+      },
+      {
+        "name": "Slim Cessna’s Auto Club",
+        "members": [
+          {
+            "name" : "Slim Cessna",
+            "instruments": []
+          },
+          {
+            "name" : "Jay Munly",
+            "instruments": [
+              "banjo",
+              "vocal",
+              "guitar"
+            ]
+          },
+          {
+            "name" : "Lord Dwight Pentacost",
+            "instruments": []
+          },
+          {
+            "name" : "Rebecca Vera",
+            "instruments": []
+          },
+          {
+            "name" : "George Cessna",
+            "instruments": []
+          },
+          {
+            "name" : "Andrew Warner",
+            "instruments": []
+          }
+        ],
+        "year formed": 1992,
+        "genre description": [
+          "experimental-rock",
+          "alt-country",
+          "southern gothic",
+          "gospel",
+          "americana"
+        ],
+        "currently active": true,
+        "for-hire": true,
+        "desired gig types": [
+          "underground",
+          "theatre",
+          "bars",
+          "mid-size venue"
+        ],
+        "popular songs": [
+          "This is how we do things in the country",
+          "This land is our land redux",
+          "Children of the lord",
+          "Last song about Satan"
+        ],
+        "website": [
+          "http://scacunincorporated.com/",
+          "https://www.facebook.com/slimcessnasautoclub/"
+        ],
+        "email": [
+          "westernpublicity@gmail.com",
+          "booking@leafygreen.com"
+        ],
+        "phone-number": "773-301-5767"
+      },
+      {
+        "name": "The Other Black",
+        "members": [
+          {
+            "name" : "Wes Watkins",
+            "instruments": [
+              "vocal",
+              "trumpet"
+            ]
+          },
+          {
+            "name" : "Sean D",
+            "instruments": [
+              "bass"
+            ]
+          },
+          {
+            "name" : "Dylan J",
+            "instruments": [
+              "drums"
+            ]
+          },
+          {
+            "name" : "Ben W",
+            "instruments": [
+              "keyboard"
+            ]
+          },
+          {
+            "name" : "Michael P",
+            "instruments": [
+              "drums",
+              "percussion"
+            ]
+          },
+          {
+            "name" : "Daniel L",
+            "instruments": [
+              "guitar"
+            ]
+          },
+          {
+            "name" : "Sean C",
+            "instruments": [
+              "tenor sax"
+            ]
+          },
+          {
+            "name" : "Carrie M",
+            "instruments": [
+              "trumpet"
+            ]
+          },
+          {
+            "name" : "Alex M",
+            "instruments": [
+              "vocal"
+            ]
+          },
+          {
+            "name" : "Paul M",
+            "instruments": [
+              "vocal"
+            ]
+          }
+        ],
+        "year formed": "",
+        "genre description": [
+        ],
+        "currently active": true,
+        "for-hire": true,
+        "desired gig types": [
+        ],
+        "popular songs": [
+        ],
+        "website": [
+          "https://theotherblack.bandcamp.com/",
+          "http://theweswatkins.com/"
+
+        ],
+        "email": "",
+        "phone-number": ""
+      },
+      {
+        "name": "Nasty Nachos",
+        "members": [
+          {
+            "name" : "Alex Anderson",
+            "instruments": [
+              "synth"
+            ]
+          },
+          {
+            "name" : "Matt Tanner",
+            "instruments": [
+              "synth",
+              "drums"
+            ]
+          }
+        ],
+        "year formed": "2011",
+        "genre description": [
+          "electronoise pop"
+        ],
+        "currently active": true,
+        "for-hire": true,
+        "desired gig types": [
+          "underground",
+          "party",
+          "bars"
+        ],
+        "popular songs": [
+        ],
+        "website": [
+          "https://www.facebook.com/NastyNachos/",
+          "https://nastynachos.bandcamp.com/"
+        ],
+        "email": "",
+        "phone-number": ""
+      },
+      {
+        "name": "Wheelchair Sports Camp",
+        "members": [
+          {
+            "name" : "Kalyn",
+            "instruments": [
+              "vocal",
+              "MC",
+              "beats"
+            ]
+          },
+          {
+            "name" : "Gregg Ziemba",
+            "instruments": [
+              "drums"
+            ]
+          },
+          {
+            "name" : "Joshua Trinidad",
+            "instruments": [
+              "trumpet"
+            ]
+          },
+        ],
+        "year formed": "1997",
+        "genre description": [
+          "hip-hop",
+          "experimental"
+        ],
+        "currently active": true,
+        "for-hire": true,
+        "desired gig types": [
+          "underground",
+          "community events",
+          "protest"
+        ],
+        "popular songs": [
+          "Mary had a little Band",
+          "Hard out here for a gimp",
+          "Thunder"
+        ],
+        "website": [
+          "https://wheelchairsportscamp.co/",
+          "https://wheelchairsportscamp.bandcamp.com/",
+          "https://www.facebook.com/wheelchairsportscamp/"
+        ],
+        "email": "wheelchairsportscamp@gmail.com",
+        "phone-number": ""
+      }
+    ]
+  }
+]           
