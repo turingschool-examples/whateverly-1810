@@ -611,3 +611,7 @@ const bands = [
   ]
 }
 ];
+module.exports = {
+  psychMusic,
+  bands
+}
