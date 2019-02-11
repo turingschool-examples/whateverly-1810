@@ -185,7 +185,7 @@ const cocktails = [
     "garnishes": ["Lemon"],
     "glass": "Cocktail",
     "ice": true }
-]
+];
 
 const homebar = [
   { "barware": ["Ice Bag", "Bar Spoon", "Muddler", "Jigger", "Cocktail Shaker", "Strainer", "Ice Cube Trays"],
@@ -195,4 +195,9 @@ const homebar = [
     "garnishes": ["Lemon", "Lime", "Orange", "Olive", "Cherry"],
     "ice": "One pound per guest",
     "napkins": true }
-]
+];
+
+module.exports = {
+  cocktails,
+  homebar
+}
