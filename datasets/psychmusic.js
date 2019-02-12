@@ -2,6 +2,7 @@ const psychMusic = [
   { 
    genre: "neoPsychedelia",
    origination: 1970,
+   id: 1,
    characteristics: [
    "psychedelic pop", 
    "jangly guitar rock", 
@@ -13,6 +14,7 @@ const psychMusic = [
   { 
    genre: "stonerRock",
    origination: 1990,
+   id: 2,
    characteristics: [
    "slow tempo", 
    "bass heavy sound", 
@@ -24,6 +26,7 @@ const psychMusic = [
   { 
    genre: "shoegazing",
    origination: 1980,
+   id: 3,
    characteristics: [
    "guitar distortion", 
    "delay effects", 
@@ -38,10 +41,12 @@ const bands = [
 {
   name: "Sparklehorse",
   origin: "Richmond Virginia",
+  image: "https://i.imgur.com/ciMF4gb.jpg",
   members: [
   "Mark Linkous",
   "Scott Minor"
 ],
+  genreId: 1,
   active: false,
   label: "Slow River",
   sideProjects: [
@@ -54,12 +59,14 @@ const bands = [
 {
   name: "Quest for Fire",
   origin: "Toronto Canada",
+  image: "https://i.imgur.com/lamtwzr.jpg",
   members: [
   "Andrew Moszynski",
   "Chad Ross",
   "Mike Maxymuik",
   "Josh Bauman"
 ],
+  genreId: 1,
   active: false,
   label: "Tee Pee",
   sideProjects: [
@@ -71,12 +78,14 @@ const bands = [
 {
   name: "The Dream Syndicate",
   origin: "Los Angeles California",
+  image: "https://i.imgur.com/7zklXlb.jpg",
   members: [
   "Steve Wynn",
   "Dennis Duck",
   "Mark Walton",
   "Jason Victor"
 ],
+  genreId: 1,
   active: true,
   label: "Big Time",
   sideProjects: [
@@ -89,12 +98,14 @@ const bands = [
 {
   name: "Ozric Tentacles",
   origin: "Somerset England",
+  image: "https://i.imgur.com/ClePm63.jpg",
   members: [
   "Ed Wynne",
   "Brandi Wynne",
   "Silas Neptune",
   "Balazs Szende"
 ],
+  genreId: 1,
   active: true,
   label: "Magna Carta",
   sideProjects: [
@@ -107,12 +118,14 @@ const bands = [
 {
   name: "Stardeath and the White Dwarfs",
   origin: "Oklahoma City Oklahoma",
+  image: "https://i.imgur.com/6zAdp1g.jpg",
   members: [
   "Dennis Coyne",
   "Casey Joseph",
   "Matt Duckworth",
   "Ford Chastain"
 ],
+  genreId: 1,
   active: true,
   label: "Warner Bros",
   sideProjects: [
@@ -125,6 +138,7 @@ const bands = [
 {
   name: "The Black Angels",
   origin: "Austin TX",
+  image: "https://i.imgur.com/TdwPPTe.jpg",
   members: [
   "Stephanie Bailey",
   "Christian Bland",
@@ -132,6 +146,7 @@ const bands = [
   "Kyle Hunt",
   "Jake Garcia"
 ],
+  genreId: 1,
   active: true,
   label: "Light in the Attic",
   sideProjects: [
@@ -145,6 +160,7 @@ const bands = [
 {
   name: "Spacemen 3",
   origin: "Warwickshire England",
+  image: "https://i.imgur.com/2UcOZah.jpg",
   members: [
   "Peter Kember",
   "Jason Pierce",
@@ -156,6 +172,7 @@ const bands = [
   "Jonny Mattock",
   "Mark Refoy"
 ],
+  genreId: 1,
   active: false,
   label: "Dedicated Records",
   sideProjects: [
@@ -167,6 +184,7 @@ const bands = [
 {
   name: "The Teardrops",
   origin: "Liverpool England",
+  image: "https://i.imgur.com/hk7Fasw.png",
   members: [
   "Julian Cope",
   "Mick Finkler",
@@ -182,6 +200,7 @@ const bands = [
   "Ted Emmett",
   "Andy Radek"
 ],
+  genreId: 1,
   active: false,
   label: "Zoo Records",
   sideProjects: [
@@ -195,6 +214,7 @@ const bands = [
 {
   name: "Spindrift",
   origin: "Los Angeles CA",
+  image: "https://i.imgur.com/JdLZXQX.jpg",
   members: [
   "Kirpatrick Thomas",
   "James Acton",
@@ -204,6 +224,7 @@ const bands = [
   "Becca Davidson",
   "Julie Patterson"
 ],
+  genreId: 1,
   active: true,
   label: "Tee Pee Records",
   sideProjects: [
@@ -215,10 +236,12 @@ const bands = [
 {
   name: "Echo and the Bunnymen",
   origin: "Liverpool England",
+  image: "https://i.imgur.com/suHhm1z.jpg",
   members: [
   "Ian McCulloch",
   "Will Sergeant"
 ],
+  genreId: 1,
   active: true,
   label: "Warner Bros",
   sideProjects: [
@@ -229,12 +252,14 @@ const bands = [
 {
   name: "The Church",
   origin: "Sydney Australia",
+  image: "https://i.imgur.com/XoF7K90.jpg",
   members: [
   "Steve Kilbey",
   "Peter Koppes",
   "Tim Powles",
   "Ian Haug"
 ],
+  genreId: 1,
   active: true,
   label: "Capitol",
   sideProjects: [
@@ -248,11 +273,13 @@ const bands = [
 {
   name: "Acid King",
   origin: "San Francisco California",
+  image: "https://i.imgur.com/3suu7Z6.jpg",
   members: [
   "Lori S",
   "Rafa Martinez",
   "Bil Bowman"
 ],
+  genreId: 2,
   active: true,
   label: "Leaf Hound",
   sideProjects: [
@@ -265,11 +292,13 @@ const bands = [
 {
   name: "Boris",
   origin: "Tokyo Japan",
+  image: "https://i.imgur.com/fXn3S3p.png",
   members: [
   "Atsuo",
   "Takeshi",
   "Wata"
 ],
+  genreId: 2,
   active: true,
   label: "Southern Lord",
   sideProjects: [
@@ -283,11 +312,13 @@ const bands = [
 {
   name: "Dead Meadow",
   origin: "Washington DC",
+  image: "https://i.imgur.com/EpwysvE.jpg",
   members: [
   "Jason Simon",
   "Steve Kille",
   "Mark Laughlin"
 ],
+  genreId: 2,
   active: true,
   label: "Matador",
   sideProjects: [
@@ -298,6 +329,7 @@ const bands = [
 {
   name: "Acrimony",
   origin: "Wales United Kingdom",
+  image: "https://i.imgur.com/WJ1a8WH.jpg",
   members: [
   "Dorian Walters",
   "Stuart OHara",
@@ -305,6 +337,7 @@ const bands = [
   "Darren Ivey",
   "Paul Bidmead"
 ],
+  genreId: 2,
   active: false,
   label: "Godhead Records",
   sideProjects: [
@@ -319,11 +352,13 @@ const bands = [
 {
   name: "Sleep",
   origin: "San Jose California",
+  image: "https://i.imgur.com/MqVgmXQ.jpg",
   members: [
   "Al Cisneros",
   "Matt Pike",
   "Jason Roeder"
 ],
+  genreId: 2,
   active: true,
   label: "Third Man Records",
   sideProjects: [
@@ -339,12 +374,14 @@ const bands = [
 {
   name: "Orange Goblin",
   origin: "London England",
+  image: "https://i.imgur.com/H5OqZbW.jpg",
   members: [
   "Ben Ward",
   "Joe Hoare",
   "Martyn Millard",
   "Chris Turner"
 ],
+  genreId: 2,
   active: true,
   label: "Sanctuary",
   sideProjects: [
@@ -357,12 +394,14 @@ const bands = [
 {
   name: "Melvins",
   origin: "Montesano Washington",
+  image: "https://i.imgur.com/8ieUJbG.jpg",
   members: [
   "Buzz Osborne",
   "Dale Crover",
   "Steven Shane McDonald",
   "Jeff Pinkus"
 ],
+  genreId: 2,
   active: true,
   label: "Your Choice",
   sideProjects: [
@@ -383,12 +422,14 @@ const bands = [
 {
   name: "Electric Wizard",
   origin: "Dorset England",
+  image: "https://i.imgur.com/oZCj9bF.jpg",
   members: [
   "Jus Oborn",
   "Liz Buckingham",
   "Clayton Burgess",
   "Simon Poole"
 ],
+  genreId: 2,
   active: true,
   label: "Rise Above",
   sideProjects: [
@@ -404,6 +445,7 @@ const bands = [
 {
   name: "Alcian Blue",
   origin: "Takoma Park Maryland",
+  image: "https://i.imgur.com/jqHXMuV.jpg",
   members: [
   "Sam Chintha",
   "Jake Reid",
@@ -411,6 +453,7 @@ const bands = [
   "Matt Welch",
   "Kim Reid"
 ],
+  genreId: 3,
   active: false,
   label: "Safranin Sound",
   sideProjects: [
@@ -423,6 +466,7 @@ const bands = [
 {
   name: "Slowdive",
   origin: "Berkshire England",
+  image: "https://i.imgur.com/2XfiHH1.png",
   members: [
   "Nick Chaplin",
   "Rachel Goswell",
@@ -430,6 +474,7 @@ const bands = [
   "Christian Savill",
   "Simon Scott"
 ],
+  genreId: 3,
   active: true,
   label: "Dead Oceans",
   sideProjects: [
@@ -449,12 +494,14 @@ const bands = [
 {
   name: "Adorable",
   origin: "Coventry England",
+  image: "https://i.imgur.com/pxuXG7n.gif",
   members: [
   "Pete Fijalkowski",
   "Robert Dillam",
   "Stephen Williams",
   "Kevin Gritton"
 ],
+  genreId: 3,
   active: false,
   label: "Creation",
   sideProjects: [
@@ -468,12 +515,14 @@ const bands = [
 {
   name: "My Bloody Valentine",
   origin: "Dublin Ireland",
+  image: "https://i.imgur.com/HXgfaM9.png",
   members: [    
   "Kevin Shields",
   "Colm O Ciosoig",
   "Debbie Googe",
   "Bilinda Butcher"
 ],
+  genreId: 3,
   active: true,
   label: "Island",
   sideProjects: [
@@ -486,6 +535,7 @@ const bands = [
 {
   name: "Bardo Pond",
   origin: "Philadelphia Pennsylvania",
+  image: "https://i.imgur.com/6v4oa6Z.jpg",
   members: [
   "John Gibbons",
   "Michael Gibbons",
@@ -493,6 +543,7 @@ const bands = [
   "Clint Takeda",
   "Jason Kourkounis"
 ],
+  genreId: 3,
   active: true,
   label: "Matador",
   sideProjects: [
@@ -505,6 +556,7 @@ const bands = [
 {
   name: "The Brian Jonestown Massacre",
   origin: "San Francisco California",
+  image: "https://i.imgur.com/lHeQWJo.jpg",
   members: [
   "Anton Newcombe",
   "Collin Hegna",
@@ -514,6 +566,7 @@ const bands = [
   "Rob Campanella",
   "Ryan Van Kriedt"
 ],
+  genreId: 3,
   active: true,
   label: "Tee Pee",
   sideProjects: [
@@ -526,10 +579,12 @@ const bands = [
 {
   name: "Bowery Electric",
   origin: "New York City New York",
+  image: "https://i.imgur.com/4N1TwA7.jpg",
   members: [
   "Lawrence Chandler",
   "Martha Schwendener"
 ],
+  genreId: 3,
   active: false,
   label: "Happy Go Lucky",
   sideProjects: [
@@ -540,12 +595,14 @@ const bands = [
 {
   name: "Amesoeurs",
   origin: "Bagnols sur Ceze France",
+  image: "https://i.imgur.com/wIEWPPg.jpg",
   members: [
   "Neige",
   "Audrey Sylvain",
   "Fursy Teyssier",
   "Winterhalter"
 ],
+  genreId: 3,
   active: false,
   label: "Profound Lore",
   sideProjects: [
@@ -558,12 +615,14 @@ const bands = [
 {
   name: "Beach Fossils",
   origin: "Brooklyn New York",
+  image: "https://i.imgur.com/c0T0hkn.jpg",
   members: [
   "Dustin Payseur",
   "Jack Doyle Smith",
   "Tommy Davidson",
   "Anton Hochheim"
 ],
+  genreId: 3,
   active: true,
   label: "Captured Tracks",
   sideProjects: [
@@ -575,11 +634,13 @@ const bands = [
 {
   name: "A Place to Bury Strangers",
   origin: "Brooklyn New York",
+  image: "https://i.imgur.com/GKoMwF5.jpg",
   members: [
   "Oliver Ackermann",
   "Dion Lunadon",
   "Lia Simone Braswell"
 ],
+  genreId: 3,
   active: true,
   label: "Dead Oceans",
   sideProjects: [
@@ -593,12 +654,14 @@ const bands = [
 {
   name: "Ride",
   origin: "Oxford England",
+  image: "https://i.imgur.com/B41x1yH.jpg",
   members: [
   "Andy Bell",
   "Laurence Colbert",
   "Mark Gardener",
   "Steve Queralt"
 ],
+  genreId: 3,
   active: true,
   label: "Creation",
   sideProjects: [
@@ -611,8 +674,3 @@ const bands = [
   ]
 }
 ];
-
-module.exports = {
-  psychMusic,
-  bands
-}
