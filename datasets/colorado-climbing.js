@@ -175,7 +175,7 @@ const coloradoClimbingAreas  = {
                 "name": "Ivory Coast",
                 "grade": "5.11+",
                 "type": ["trad"],
-                "link": 
+                "link": "https://www.mountainproject.com/route/111168293/ivory-coast"
             },
             {
                 "name": "Carter Classic",
@@ -1298,7 +1298,7 @@ const coloradoClimbingAreas  = {
                 "name": "Sizzlin' Summer Solstice Spectacular",
                 "grade": "5.10",
                 "type": ["sport"],
-                "link": 
+                "link": "https://www.mountainproject.com/route/111313031/sizzlin-summer-solstice-spectacular"
             },
             {
                 "name": "Darkness Till Dawn",
